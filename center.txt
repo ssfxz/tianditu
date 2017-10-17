@@ -1,0 +1,3314 @@
+{  
+   "count":"149614",
+   "resultType":2,
+   "prompt":[  
+      {  }
+   ],
+   "mclayer":"",
+   "statistics":{  
+      "citysCount":372,
+      "priorityCitys":[  
+         {  
+            "ename":"Beijing City",
+            "name":"北京市",
+            "count":"74785",
+            "adminCode":156110000,
+            "lon":"116.412616",
+            "lat":"40.185590999999995"
+         },
+         {  
+            "ename":"shanghai city",
+            "name":"上海市",
+            "count":"3291",
+            "adminCode":156310000,
+            "lon":"121.41338499999999",
+            "lat":"31.084654999999998"
+         },
+         {  
+            "ename":"Kunming City",
+            "name":"昆明市",
+            "count":"2979",
+            "adminCode":156530100,
+            "lon":"102.872731",
+            "lat":"25.386854"
+         },
+         {  
+            "ename":"Yinchuan City",
+            "name":"银川市",
+            "count":"2620",
+            "adminCode":156640100,
+            "lon":"106.082538",
+            "lat":"38.513543"
+         },
+         {  
+            "ename":"Urumqi City",
+            "name":"乌鲁木齐市",
+            "count":"2495",
+            "adminCode":156650100,
+            "lon":"87.78085999999999",
+            "lat":"43.731263"
+         },
+         {  
+            "ename":"Jingzhou City",
+            "name":"荆州市",
+            "count":"1869",
+            "adminCode":156421000,
+            "lon":"112.66216399999999",
+            "lat":"29.854167999999998"
+         }
+      ],
+      "provinceCount":33,
+      "allAdmins":[  
+         {  
+            "ename":"Beijing City",
+            "name":"北京市",
+            "count":"74785",
+            "adminCode":156110000,
+            "lon":"116.412616",
+            "lat":"40.185590999999995"
+         },
+         {  
+            "ename":"Jiangshu Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Nanjing City",
+                  "name":"南京市",
+                  "count":"1247",
+                  "adminCode":"156320100",
+                  "lon":"118.842874",
+                  "lat":"31.928065"
+               },
+               {  
+                  "ename":"Huai\u2019an City",
+                  "name":"淮安市",
+                  "count":"1200",
+                  "adminCode":"156320800",
+                  "lon":"118.96424499999999",
+                  "lat":"33.352911999999996"
+               },
+               {  
+                  "ename":"Suqian City",
+                  "name":"宿迁市",
+                  "count":"799",
+                  "adminCode":"156321300",
+                  "lon":"118.52001",
+                  "lat":"33.783921"
+               },
+               {  
+                  "ename":"Xuzhou City",
+                  "name":"徐州市",
+                  "count":"727",
+                  "adminCode":"156320300",
+                  "lon":"117.514366",
+                  "lat":"34.266369"
+               },
+               {  
+                  "ename":"Suzhou City",
+                  "name":"苏州市",
+                  "count":"700",
+                  "adminCode":"156320500",
+                  "lon":"120.642348",
+                  "lat":"31.377762999999998"
+               },
+               {  
+                  "ename":"Nantong City",
+                  "name":"南通市",
+                  "count":"325",
+                  "adminCode":"156320600",
+                  "lon":"121.00181699999999",
+                  "lat":"32.197783"
+               },
+               {  
+                  "ename":"Wuxi City",
+                  "name":"无锡市",
+                  "count":"299",
+                  "adminCode":"156320200",
+                  "lon":"120.32919199999999",
+                  "lat":"31.689961"
+               },
+               {  
+                  "ename":"Changzhou City",
+                  "name":"常州市",
+                  "count":"256",
+                  "adminCode":"156320400",
+                  "lon":"119.40172899999999",
+                  "lat":"31.507346"
+               },
+               {  
+                  "ename":"Yancheng City",
+                  "name":"盐城市",
+                  "count":"248",
+                  "adminCode":"156320900",
+                  "lon":"120.17936399999999",
+                  "lat":"33.511925"
+               },
+               {  
+                  "ename":"Taizhou City",
+                  "name":"泰州市",
+                  "count":"188",
+                  "adminCode":"156321200",
+                  "lon":"120.05689299999999",
+                  "lat":"32.571450999999996"
+               },
+               {  
+                  "ename":"Yangzhou City",
+                  "name":"扬州市",
+                  "count":"145",
+                  "adminCode":"156321000",
+                  "lon":"119.473599",
+                  "lat":"32.738201"
+               },
+               {  
+                  "ename":"Zhenjiang City",
+                  "name":"镇江市",
+                  "count":"139",
+                  "adminCode":"156321100",
+                  "lon":"119.46573199999999",
+                  "lat":"32.069626"
+               },
+               {  
+                  "ename":"Lianyungang City",
+                  "name":"连云港市",
+                  "count":"117",
+                  "adminCode":"156320700",
+                  "lon":"119.10748299999999",
+                  "lat":"34.627058999999996"
+               }
+            ],
+            "name":"江苏省",
+            "count":"6390",
+            "adminCode":156320000,
+            "lon":"120.542165",
+            "lat":"32.185323"
+         },
+         {  
+            "ename":"Xinjiang Uygur Autonomous Region",
+            "childAdmins":[  
+               {  
+                  "ename":"Urumqi City",
+                  "name":"乌鲁木齐市",
+                  "count":"2495",
+                  "adminCode":"156650100",
+                  "lon":"87.78085999999999",
+                  "lat":"43.731263"
+               },
+               {  
+                  "ename":"Changji Hui Autonomous Prefecture",
+                  "name":"昌吉回族自治州",
+                  "count":"1178",
+                  "adminCode":"156652300",
+                  "lon":"89.78833399999999",
+                  "lat":"44.344274"
+               },
+               {  
+                  "ename":"Bo\u2019ertala Mongolia Autonomous Prefecture",
+                  "name":"博尔塔拉蒙古自治州",
+                  "count":"862",
+                  "adminCode":"156652700",
+                  "lon":"82.11444399999999",
+                  "lat":"44.733509"
+               },
+               {  
+                  "ename":"Hetian Prefecture",
+                  "name":"和田地区",
+                  "count":"616",
+                  "adminCode":"156653200",
+                  "lon":"81.192381",
+                  "lat":"37.422858"
+               },
+               {  
+                  "ename":"Yili Kazak Autonomous Prefecture",
+                  "name":"伊犁哈萨克自治州",
+                  "count":"566",
+                  "adminCode":"156654000",
+                  "lon":"82.052844",
+                  "lat":"43.440746"
+               },
+               {  
+                  "ename":"Tacheng Prefecture",
+                  "name":"塔城地区",
+                  "count":"353",
+                  "adminCode":"156654200",
+                  "lon":"84.79622499999999",
+                  "lat":"43.891957"
+               },
+               {  
+                  "ename":"Kelamayi City",
+                  "name":"克拉玛依市",
+                  "count":"48",
+                  "adminCode":"156650200",
+                  "lon":"84.93815699999999",
+                  "lat":"45.24482"
+               },
+               {  
+                  "ename":"Shihezi City",
+                  "name":"石河子市",
+                  "count":"46",
+                  "adminCode":"156659001",
+                  "lon":"86.035511",
+                  "lat":"44.305392999999995"
+               },
+               {  
+                  "ename":"Bayinguoleng Mongolia Autonomous Prefecture",
+                  "name":"巴音郭楞蒙古自治州",
+                  "count":"30",
+                  "adminCode":"156652800",
+                  "lon":"87.463544",
+                  "lat":"39.494113"
+               },
+               {  
+                  "ename":"Kashi Prefecture",
+                  "name":"喀什地区",
+                  "count":"29",
+                  "adminCode":"156653100",
+                  "lon":"77.217779",
+                  "lat":"38.158013"
+               },
+               {  
+                  "ename":"Hami Prefecture",
+                  "name":"哈密市",
+                  "count":"26",
+                  "adminCode":"156652200",
+                  "lon":"93.514652",
+                  "lat":"43.038944"
+               },
+               {  
+                  "ename":"Akesu Prefecture",
+                  "name":"阿克苏地区",
+                  "count":"23",
+                  "adminCode":"156652900",
+                  "lon":"82.569805",
+                  "lat":"41.016653"
+               },
+               {  
+                  "ename":"Aletai Prefecture",
+                  "name":"阿勒泰地区",
+                  "count":"5",
+                  "adminCode":"156654300",
+                  "lon":"88.299689",
+                  "lat":"46.075635999999996"
+               },
+               {  
+                  "ename":"Wujiaqu City",
+                  "name":"五家渠市",
+                  "count":"4",
+                  "adminCode":"156659004",
+                  "lon":"87.554689",
+                  "lat":"44.361368"
+               },
+               {  
+                  "ename":"Ala\u2019er City",
+                  "name":"阿拉尔市",
+                  "count":"4",
+                  "adminCode":"156659002",
+                  "lon":"81.309961",
+                  "lat":"40.598348"
+               },
+               {  
+                  "ename":"Tumushuke City",
+                  "name":"图木舒克市",
+                  "count":"4",
+                  "adminCode":"156659003",
+                  "lon":"79.130714",
+                  "lat":"39.880998999999996"
+               },
+               {  
+                  "ename":"Beitun City",
+                  "name":"北屯市",
+                  "count":"1",
+                  "adminCode":"156659005",
+                  "lon":"87.96266",
+                  "lat":"47.238032"
+               }
+            ],
+            "name":"新疆维吾尔自治区",
+            "count":"6308",
+            "adminCode":156650000,
+            "lon":"85.189523",
+            "lat":"41.116555999999996"
+         },
+         {  
+            "ename":"Henan Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Nanyang City",
+                  "name":"南阳市",
+                  "count":"1401",
+                  "adminCode":"156411300",
+                  "lon":"112.28466399999999",
+                  "lat":"33.042674"
+               },
+               {  
+                  "ename":"Zhengzhou City",
+                  "name":"郑州市",
+                  "count":"988",
+                  "adminCode":"156410100",
+                  "lon":"113.467547",
+                  "lat":"34.627226"
+               },
+               {  
+                  "ename":"Luoyang City",
+                  "name":"洛阳市",
+                  "count":"544",
+                  "adminCode":"156410300",
+                  "lon":"112.031174",
+                  "lat":"34.291016"
+               },
+               {  
+                  "ename":"Xinxiang City",
+                  "name":"新乡市",
+                  "count":"232",
+                  "adminCode":"156410700",
+                  "lon":"114.08798999999999",
+                  "lat":"35.261961"
+               },
+               {  
+                  "ename":"Xinyang City",
+                  "name":"信阳市",
+                  "count":"222",
+                  "adminCode":"156411500",
+                  "lon":"114.88372799999999",
+                  "lat":"32.081221"
+               },
+               {  
+                  "ename":"Pingdingshan City",
+                  "name":"平顶山市",
+                  "count":"211",
+                  "adminCode":"156410400",
+                  "lon":"112.963353",
+                  "lat":"33.940974"
+               },
+               {  
+                  "ename":"Anyang City",
+                  "name":"安阳市",
+                  "count":"205",
+                  "adminCode":"156410500",
+                  "lon":"114.643632",
+                  "lat":"35.473940999999996"
+               },
+               {  
+                  "ename":"Shangqiu City",
+                  "name":"商丘市",
+                  "count":"183",
+                  "adminCode":"156411400",
+                  "lon":"115.69795599999999",
+                  "lat":"34.288883999999996"
+               },
+               {  
+                  "ename":"Kaifeng City",
+                  "name":"开封市",
+                  "count":"175",
+                  "adminCode":"156410200",
+                  "lon":"114.535957",
+                  "lat":"34.604625"
+               },
+               {  
+                  "ename":"Luohe City",
+                  "name":"漯河市",
+                  "count":"152",
+                  "adminCode":"156411100",
+                  "lon":"113.899636",
+                  "lat":"33.655727999999996"
+               },
+               {  
+                  "ename":"Jiaozuo City",
+                  "name":"焦作市",
+                  "count":"143",
+                  "adminCode":"156410800",
+                  "lon":"113.129307",
+                  "lat":"35.116989"
+               },
+               {  
+                  "ename":"Xuchang City",
+                  "name":"许昌市",
+                  "count":"140",
+                  "adminCode":"156411000",
+                  "lon":"113.709761",
+                  "lat":"34.072773999999995"
+               },
+               {  
+                  "ename":"Zhumadian City",
+                  "name":"驻马店市",
+                  "count":"128",
+                  "adminCode":"156411700",
+                  "lon":"114.15091",
+                  "lat":"32.923458"
+               },
+               {  
+                  "ename":"Zhoukou City",
+                  "name":"周口市",
+                  "count":"111",
+                  "adminCode":"156411600",
+                  "lon":"114.87804",
+                  "lat":"33.721894999999996"
+               },
+               {  
+                  "ename":"Puyang City",
+                  "name":"濮阳市",
+                  "count":"108",
+                  "adminCode":"156410900",
+                  "lon":"115.17249899999999",
+                  "lat":"35.808658"
+               },
+               {  
+                  "ename":"Sanmenxia City",
+                  "name":"三门峡市",
+                  "count":"99",
+                  "adminCode":"156411200",
+                  "lon":"110.772381",
+                  "lat":"34.225634"
+               },
+               {  
+                  "ename":"Hebi City",
+                  "name":"鹤壁市",
+                  "count":"81",
+                  "adminCode":"156410600",
+                  "lon":"114.368803",
+                  "lat":"35.640158"
+               },
+               {  
+                  "ename":"Jiyuan City",
+                  "name":"济源市",
+                  "count":"35",
+                  "adminCode":"156419001",
+                  "lon":"112.39190599999999",
+                  "lat":"35.100024"
+               }
+            ],
+            "name":"河南省",
+            "count":"5158",
+            "adminCode":156410000,
+            "lon":"113.61451799999999",
+            "lat":"33.882175"
+         },
+         {  
+            "ename":"Shandong Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Qingdao City",
+                  "name":"青岛市",
+                  "count":"1311",
+                  "adminCode":"156370200",
+                  "lon":"120.142716",
+                  "lat":"36.4542"
+               },
+               {  
+                  "ename":"Jinan City",
+                  "name":"济南市",
+                  "count":"620",
+                  "adminCode":"156370100",
+                  "lon":"117.090222",
+                  "lat":"36.738991999999996"
+               },
+               {  
+                  "ename":"Yantai City",
+                  "name":"烟台市",
+                  "count":"419",
+                  "adminCode":"156370600",
+                  "lon":"120.805042",
+                  "lat":"37.236917"
+               },
+               {  
+                  "ename":"Weifang City",
+                  "name":"潍坊市",
+                  "count":"396",
+                  "adminCode":"156370700",
+                  "lon":"119.070759",
+                  "lat":"36.542113"
+               },
+               {  
+                  "ename":"Rizhao City",
+                  "name":"日照市",
+                  "count":"368",
+                  "adminCode":"156371100",
+                  "lon":"119.13501799999999",
+                  "lat":"35.583283"
+               },
+               {  
+                  "ename":"Linyi City",
+                  "name":"临沂市",
+                  "count":"302",
+                  "adminCode":"156371300",
+                  "lon":"118.280693",
+                  "lat":"35.309049"
+               },
+               {  
+                  "ename":"Dezhou City",
+                  "name":"德州市",
+                  "count":"218",
+                  "adminCode":"156371400",
+                  "lon":"116.646614",
+                  "lat":"37.247364999999995"
+               },
+               {  
+                  "ename":"Liaocheng City",
+                  "name":"聊城市",
+                  "count":"195",
+                  "adminCode":"156371500",
+                  "lon":"115.880034",
+                  "lat":"36.457831999999996"
+               },
+               {  
+                  "ename":"Zibo City",
+                  "name":"淄博市",
+                  "count":"184",
+                  "adminCode":"156370300",
+                  "lon":"118.05326",
+                  "lat":"36.60787"
+               },
+               {  
+                  "ename":"Jining City",
+                  "name":"济宁市",
+                  "count":"177",
+                  "adminCode":"156370800",
+                  "lon":"116.735085",
+                  "lat":"35.368192"
+               },
+               {  
+                  "ename":"Heze City",
+                  "name":"菏泽市",
+                  "count":"176",
+                  "adminCode":"156371700",
+                  "lon":"115.69236599999999",
+                  "lat":"35.152134"
+               },
+               {  
+                  "ename":"Tai\u2019an City",
+                  "name":"泰安市",
+                  "count":"174",
+                  "adminCode":"156370900",
+                  "lon":"117.025886",
+                  "lat":"36.001031"
+               },
+               {  
+                  "ename":"Zaozhuang City",
+                  "name":"枣庄市",
+                  "count":"132",
+                  "adminCode":"156370400",
+                  "lon":"117.39326",
+                  "lat":"34.915597999999996"
+               },
+               {  
+                  "ename":"Weihai City",
+                  "name":"威海市",
+                  "count":"85",
+                  "adminCode":"156371000",
+                  "lon":"121.98280299999999",
+                  "lat":"37.119996"
+               },
+               {  
+                  "ename":"Dongying City",
+                  "name":"东营市",
+                  "count":"75",
+                  "adminCode":"156370500",
+                  "lon":"118.612084",
+                  "lat":"37.628912"
+               },
+               {  
+                  "ename":"Binzhou City",
+                  "name":"滨州市",
+                  "count":"72",
+                  "adminCode":"156371600",
+                  "lon":"117.837577",
+                  "lat":"37.531177"
+               },
+               {  
+                  "ename":"Laiwu City",
+                  "name":"莱芜市",
+                  "count":"50",
+                  "adminCode":"156371200",
+                  "lon":"117.660539",
+                  "lat":"36.272683"
+               }
+            ],
+            "name":"山东省",
+            "count":"4954",
+            "adminCode":156370000,
+            "lon":"118.15129599999999",
+            "lat":"36.349228"
+         },
+         {  
+            "ename":"Hebei Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Baoding City",
+                  "name":"保定市",
+                  "count":"823",
+                  "adminCode":"156130600",
+                  "lon":"115.170711",
+                  "lat":"39.021218"
+               },
+               {  
+                  "ename":"Shijiazhuang City",
+                  "name":"石家庄市",
+                  "count":"812",
+                  "adminCode":"156130100",
+                  "lon":"114.439487",
+                  "lat":"38.1314"
+               },
+               {  
+                  "ename":"Langfang City",
+                  "name":"廊坊市",
+                  "count":"728",
+                  "adminCode":"156131000",
+                  "lon":"116.534112",
+                  "lat":"39.108576"
+               },
+               {  
+                  "ename":"Tangshan City",
+                  "name":"唐山市",
+                  "count":"555",
+                  "adminCode":"156130200",
+                  "lon":"118.329242",
+                  "lat":"39.731587"
+               },
+               {  
+                  "ename":"Handan City",
+                  "name":"邯郸市",
+                  "count":"390",
+                  "adminCode":"156130400",
+                  "lon":"114.54176799999999",
+                  "lat":"36.553087999999995"
+               },
+               {  
+                  "ename":"Cangzhou City",
+                  "name":"沧州市",
+                  "count":"348",
+                  "adminCode":"156130900",
+                  "lon":"116.748004",
+                  "lat":"38.265606999999996"
+               },
+               {  
+                  "ename":"Qinhuangdao City",
+                  "name":"秦皇岛市",
+                  "count":"330",
+                  "adminCode":"156130300",
+                  "lon":"119.184624",
+                  "lat":"40.089271"
+               },
+               {  
+                  "ename":"Zhangjiakou City",
+                  "name":"张家口市",
+                  "count":"306",
+                  "adminCode":"156130700",
+                  "lon":"115.03251399999999",
+                  "lat":"40.864951999999995"
+               },
+               {  
+                  "ename":"Hengshui City",
+                  "name":"衡水市",
+                  "count":"242",
+                  "adminCode":"156131100",
+                  "lon":"115.823398",
+                  "lat":"37.762501"
+               },
+               {  
+                  "ename":"Xingtai City",
+                  "name":"邢台市",
+                  "count":"164",
+                  "adminCode":"156130500",
+                  "lon":"114.80053099999999",
+                  "lat":"37.287303"
+               },
+               {  
+                  "ename":"Chengde City",
+                  "name":"承德市",
+                  "count":"147",
+                  "adminCode":"156130800",
+                  "lon":"117.548491",
+                  "lat":"41.347871"
+               }
+            ],
+            "name":"河北省",
+            "count":"4845",
+            "adminCode":156130000,
+            "lon":"118.250316",
+            "lat":"40.309934"
+         },
+         {  
+            "ename":"Hubei Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Jingzhou City",
+                  "name":"荆州市",
+                  "count":"1869",
+                  "adminCode":"156421000",
+                  "lon":"112.66216399999999",
+                  "lat":"29.854167999999998"
+               },
+               {  
+                  "ename":"Shiyan City",
+                  "name":"十堰市",
+                  "count":"526",
+                  "adminCode":"156420300",
+                  "lon":"110.44211899999999",
+                  "lat":"32.456452"
+               },
+               {  
+                  "ename":"Xiaogan City",
+                  "name":"孝感市",
+                  "count":"488",
+                  "adminCode":"156420900",
+                  "lon":"113.878475",
+                  "lat":"31.117912999999998"
+               },
+               {  
+                  "ename":"Wuhan City",
+                  "name":"武汉市",
+                  "count":"400",
+                  "adminCode":"156420100",
+                  "lon":"114.34268999999999",
+                  "lat":"30.623965"
+               },
+               {  
+                  "ename":"Xiangyang City",
+                  "name":"襄阳市",
+                  "count":"249",
+                  "adminCode":"156420600",
+                  "lon":"111.936331",
+                  "lat":"31.930785999999998"
+               },
+               {  
+                  "ename":"Enshi Tujia Miao Autonomous Prefecture",
+                  "name":"恩施土家族苗族自治州",
+                  "count":"216",
+                  "adminCode":"156422800",
+                  "lon":"109.54902299999999",
+                  "lat":"30.191765999999998"
+               },
+               {  
+                  "ename":"Jingmen City",
+                  "name":"荆门市",
+                  "count":"112",
+                  "adminCode":"156420800",
+                  "lon":"112.60802299999999",
+                  "lat":"31.068814"
+               },
+               {  
+                  "ename":"Yichang City",
+                  "name":"宜昌市",
+                  "count":"61",
+                  "adminCode":"156420500",
+                  "lon":"111.13499399999999",
+                  "lat":"30.747013"
+               },
+               {  
+                  "ename":"Huangshi City",
+                  "name":"黄石市",
+                  "count":"33",
+                  "adminCode":"156420200",
+                  "lon":"115.145821",
+                  "lat":"30.241566"
+               },
+               {  
+                  "ename":"Huanggang City",
+                  "name":"黄冈市",
+                  "count":"29",
+                  "adminCode":"156421100",
+                  "lon":"115.339632",
+                  "lat":"30.71626"
+               },
+               {  
+                  "ename":"Suizhou City",
+                  "name":"随州市",
+                  "count":"27",
+                  "adminCode":"156421300",
+                  "lon":"113.423976",
+                  "lat":"31.828326999999998"
+               },
+               {  
+                  "ename":"Xianning City",
+                  "name":"咸宁市",
+                  "count":"26",
+                  "adminCode":"156421200",
+                  "lon":"114.175349",
+                  "lat":"29.62379"
+               },
+               {  
+                  "ename":"Xiantao City",
+                  "name":"仙桃市",
+                  "count":"22",
+                  "adminCode":"156429004",
+                  "lon":"113.374836",
+                  "lat":"30.290360999999997"
+               },
+               {  
+                  "ename":"Ezhou City",
+                  "name":"鄂州市",
+                  "count":"21",
+                  "adminCode":"156420700",
+                  "lon":"114.937227",
+                  "lat":"30.311598"
+               },
+               {  
+                  "ename":"Qianjiang City",
+                  "name":"潜江市",
+                  "count":"20",
+                  "adminCode":"156429005",
+                  "lon":"112.75648699999999",
+                  "lat":"30.338704999999997"
+               },
+               {  
+                  "ename":"Tianmen City",
+                  "name":"天门市",
+                  "count":"8",
+                  "adminCode":"156429006",
+                  "lon":"113.11155699999999",
+                  "lat":"30.644979"
+               },
+               {  
+                  "ename":"Shennongjia District",
+                  "name":"神农架林区",
+                  "count":"2",
+                  "adminCode":"156429021",
+                  "lon":"110.47463099999999",
+                  "lat":"31.590823999999998"
+               }
+            ],
+            "name":"湖北省",
+            "count":"4109",
+            "adminCode":156420000,
+            "lon":"112.27132399999999",
+            "lat":"30.975662"
+         },
+         {  
+            "ename":"Yunnan Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Kunming City",
+                  "name":"昆明市",
+                  "count":"2979",
+                  "adminCode":"156530100",
+                  "lon":"102.872731",
+                  "lat":"25.386854"
+               },
+               {  
+                  "ename":"Yuxi City",
+                  "name":"玉溪市",
+                  "count":"64",
+                  "adminCode":"156530400",
+                  "lon":"102.68119399999999",
+                  "lat":"24.202126"
+               },
+               {  
+                  "ename":"Honghe Hani Yi Autonomous Prefecture",
+                  "name":"红河哈尼族彝族自治州",
+                  "count":"64",
+                  "adminCode":"156532500",
+                  "lon":"103.03489499999999",
+                  "lat":"23.440005"
+               },
+               {  
+                  "ename":"Dali Bai Autonomous Prefecture",
+                  "name":"大理白族自治州",
+                  "count":"53",
+                  "adminCode":"156532900",
+                  "lon":"100.039204",
+                  "lat":"25.727981"
+               },
+               {  
+                  "ename":"Chuxiong Yi Autonomous Prefecture",
+                  "name":"楚雄彝族自治州",
+                  "count":"43",
+                  "adminCode":"156532300",
+                  "lon":"101.568056",
+                  "lat":"25.352106"
+               },
+               {  
+                  "ename":"Qujing City",
+                  "name":"曲靖市",
+                  "count":"42",
+                  "adminCode":"156530300",
+                  "lon":"103.93790299999999",
+                  "lat":"25.703823"
+               },
+               {  
+                  "ename":"Lijiang City",
+                  "name":"丽江市",
+                  "count":"39",
+                  "adminCode":"156530700",
+                  "lon":"100.523935",
+                  "lat":"26.940555"
+               },
+               {  
+                  "ename":"Baoshan City",
+                  "name":"保山市",
+                  "count":"28",
+                  "adminCode":"156530500",
+                  "lon":"98.970683",
+                  "lat":"24.976730999999997"
+               },
+               {  
+                  "ename":"Lincang City",
+                  "name":"临沧市",
+                  "count":"24",
+                  "adminCode":"156530900",
+                  "lon":"99.609287",
+                  "lat":"23.796333999999998"
+               },
+               {  
+                  "ename":"Pu\u2019er City",
+                  "name":"普洱市",
+                  "count":"22",
+                  "adminCode":"156530800",
+                  "lon":"100.720401",
+                  "lat":"23.186339999999998"
+               },
+               {  
+                  "ename":"Zhaotong City",
+                  "name":"昭通市",
+                  "count":"20",
+                  "adminCode":"156530600",
+                  "lon":"104.00226599999999",
+                  "lat":"27.653525"
+               },
+               {  
+                  "ename":"Dehong Dai Jingpo Autonomous Prefecture",
+                  "name":"德宏傣族景颇族自治州",
+                  "count":"19",
+                  "adminCode":"156533100",
+                  "lon":"98.08496799999999",
+                  "lat":"24.55902"
+               },
+               {  
+                  "ename":"Xishuangbanna Dai Autonomous Prefecture",
+                  "name":"西双版纳傣族自治州",
+                  "count":"16",
+                  "adminCode":"156532800",
+                  "lon":"100.893574",
+                  "lat":"22.110416999999998"
+               },
+               {  
+                  "ename":"Wenshan Zhuang Miao Autonomous Prefecture",
+                  "name":"文山壮族苗族自治州",
+                  "count":"12",
+                  "adminCode":"156532600",
+                  "lon":"104.714078",
+                  "lat":"23.689066999999998"
+               },
+               {  
+                  "ename":"Diqing Zang Autonomous Prefecture",
+                  "name":"迪庆藏族自治州",
+                  "count":"4",
+                  "adminCode":"156533400",
+                  "lon":"99.879421",
+                  "lat":"27.850272"
+               }
+            ],
+            "name":"云南省",
+            "count":"3429",
+            "adminCode":156530000,
+            "lon":"101.862556",
+            "lat":"24.224254"
+         },
+         {  
+            "ename":"shanghai city",
+            "name":"上海市",
+            "count":"3291",
+            "adminCode":156310000,
+            "lon":"121.41338499999999",
+            "lat":"31.084654999999998"
+         },
+         {  
+            "ename":"Sichuan Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Chengdu City",
+                  "name":"成都市",
+                  "count":"1464",
+                  "adminCode":"156510100",
+                  "lon":"103.821047",
+                  "lat":"30.701446999999998"
+               },
+               {  
+                  "ename":"Guangyuan City",
+                  "name":"广元市",
+                  "count":"306",
+                  "adminCode":"156510800",
+                  "lon":"105.78250299999999",
+                  "lat":"32.262228"
+               },
+               {  
+                  "ename":"Deyang City",
+                  "name":"德阳市",
+                  "count":"241",
+                  "adminCode":"156510600",
+                  "lon":"104.43494299999999",
+                  "lat":"31.130108999999997"
+               },
+               {  
+                  "ename":"Neijiang City",
+                  "name":"内江市",
+                  "count":"129",
+                  "adminCode":"156511000",
+                  "lon":"104.91109499999999",
+                  "lat":"29.640777999999997"
+               },
+               {  
+                  "ename":"Mianyang City",
+                  "name":"绵阳市",
+                  "count":"123",
+                  "adminCode":"156510700",
+                  "lon":"104.703244",
+                  "lat":"31.849019"
+               },
+               {  
+                  "ename":"Leshan City",
+                  "name":"乐山市",
+                  "count":"90",
+                  "adminCode":"156511100",
+                  "lon":"103.570213",
+                  "lat":"29.216046"
+               },
+               {  
+                  "ename":"Meishan City",
+                  "name":"眉山市",
+                  "count":"71",
+                  "adminCode":"156511400",
+                  "lon":"104.090852",
+                  "lat":"29.994667"
+               },
+               {  
+                  "ename":"Nanchong City",
+                  "name":"南充市",
+                  "count":"70",
+                  "adminCode":"156511300",
+                  "lon":"106.203824",
+                  "lat":"31.195531"
+               },
+               {  
+                  "ename":"Yibin City",
+                  "name":"宜宾市",
+                  "count":"68",
+                  "adminCode":"156511500",
+                  "lon":"104.635581",
+                  "lat":"28.573204999999998"
+               },
+               {  
+                  "ename":"Luzhou City",
+                  "name":"泸州市",
+                  "count":"56",
+                  "adminCode":"156510500",
+                  "lon":"105.451168",
+                  "lat":"28.552289"
+               },
+               {  
+                  "ename":"Dazhou City",
+                  "name":"达州市",
+                  "count":"44",
+                  "adminCode":"156511700",
+                  "lon":"107.644848",
+                  "lat":"31.366276"
+               },
+               {  
+                  "ename":"Ziyang City",
+                  "name":"资阳市",
+                  "count":"39",
+                  "adminCode":"156512000",
+                  "lon":"104.951813",
+                  "lat":"30.18094"
+               },
+               {  
+                  "ename":"Liangshan Yi Autonomous Prefecture",
+                  "name":"凉山彝族自治州",
+                  "count":"39",
+                  "adminCode":"156513400",
+                  "lon":"102.079623",
+                  "lat":"27.886910999999998"
+               },
+               {  
+                  "ename":"Zigong City",
+                  "name":"自贡市",
+                  "count":"38",
+                  "adminCode":"156510300",
+                  "lon":"104.964036",
+                  "lat":"29.223575999999998"
+               },
+               {  
+                  "ename":"Suining City",
+                  "name":"遂宁市",
+                  "count":"34",
+                  "adminCode":"156510900",
+                  "lon":"105.47179399999999",
+                  "lat":"30.63166"
+               },
+               {  
+                  "ename":"Bazhong City",
+                  "name":"巴中市",
+                  "count":"31",
+                  "adminCode":"156511900",
+                  "lon":"107.038105",
+                  "lat":"32.017418"
+               },
+               {  
+                  "ename":"Panzhihua City",
+                  "name":"攀枝花市",
+                  "count":"27",
+                  "adminCode":"156510400",
+                  "lon":"101.72985399999999",
+                  "lat":"26.806507999999997"
+               },
+               {  
+                  "ename":"Ya\u2019an City",
+                  "name":"雅安市",
+                  "count":"26",
+                  "adminCode":"156511800",
+                  "lon":"102.663731",
+                  "lat":"29.912098"
+               },
+               {  
+                  "ename":"Guang\u2019an City",
+                  "name":"广安市",
+                  "count":"18",
+                  "adminCode":"156511600",
+                  "lon":"106.66338999999999",
+                  "lat":"30.426282999999998"
+               },
+               {  
+                  "ename":"Aba Zang Qiang Autonomous Prefecture",
+                  "name":"阿坝藏族羌族自治州",
+                  "count":"9",
+                  "adminCode":"156513200",
+                  "lon":"102.60955799999999",
+                  "lat":"32.400224"
+               },
+               {  
+                  "ename":"Ganzi Zang Autonomous Prefecture",
+                  "name":"甘孜藏族自治州",
+                  "count":"7",
+                  "adminCode":"156513300",
+                  "lon":"99.997312",
+                  "lat":"30.949142"
+               }
+            ],
+            "name":"四川省",
+            "count":"2930",
+            "adminCode":156510000,
+            "lon":"102.692954",
+            "lat":"30.629248999999998"
+         },
+         {  
+            "ename":"Ningxia Hui Autonomous Region",
+            "childAdmins":[  
+               {  
+                  "ename":"Yinchuan City",
+                  "name":"银川市",
+                  "count":"2620",
+                  "adminCode":"156640100",
+                  "lon":"106.082538",
+                  "lat":"38.513543"
+               },
+               {  
+                  "ename":"Shizuishan City",
+                  "name":"石嘴山市",
+                  "count":"80",
+                  "adminCode":"156640200",
+                  "lon":"106.512456",
+                  "lat":"39.006009"
+               },
+               {  
+                  "ename":"Zhongwei City",
+                  "name":"中卫市",
+                  "count":"72",
+                  "adminCode":"156640500",
+                  "lon":"105.500378",
+                  "lat":"37.013684999999995"
+               },
+               {  
+                  "ename":"Wuzhong City",
+                  "name":"吴忠市",
+                  "count":"59",
+                  "adminCode":"156640300",
+                  "lon":"106.52685799999999",
+                  "lat":"37.461045999999996"
+               },
+               {  
+                  "ename":"Guyuan City",
+                  "name":"固原市",
+                  "count":"47",
+                  "adminCode":"156640400",
+                  "lon":"106.18193199999999",
+                  "lat":"35.917092"
+               }
+            ],
+            "name":"宁夏回族自治区",
+            "count":"2878",
+            "adminCode":156640000,
+            "lon":"105.973068",
+            "lat":"37.188293"
+         },
+         {  
+            "ename":"Liaoning Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Shenyang City",
+                  "name":"沈阳市",
+                  "count":"753",
+                  "adminCode":"156210100",
+                  "lon":"123.138026",
+                  "lat":"42.09448"
+               },
+               {  
+                  "ename":"Dalian City",
+                  "name":"大连市",
+                  "count":"568",
+                  "adminCode":"156210200",
+                  "lon":"122.20024",
+                  "lat":"39.599148"
+               },
+               {  
+                  "ename":"Jinzhou City",
+                  "name":"锦州市",
+                  "count":"377",
+                  "adminCode":"156210700",
+                  "lon":"121.182267",
+                  "lat":"41.27874"
+               },
+               {  
+                  "ename":"Anshan City",
+                  "name":"鞍山市",
+                  "count":"192",
+                  "adminCode":"156210300",
+                  "lon":"123.36931399999999",
+                  "lat":"40.387862999999996"
+               },
+               {  
+                  "ename":"Huludao City",
+                  "name":"葫芦岛市",
+                  "count":"109",
+                  "adminCode":"156211400",
+                  "lon":"120.19730799999999",
+                  "lat":"40.624534"
+               },
+               {  
+                  "ename":"Yingkou City",
+                  "name":"营口市",
+                  "count":"106",
+                  "adminCode":"156210800",
+                  "lon":"122.46365499999999",
+                  "lat":"40.391082"
+               },
+               {  
+                  "ename":"Liaoyang City",
+                  "name":"辽阳市",
+                  "count":"97",
+                  "adminCode":"156211000",
+                  "lon":"123.40929399999999",
+                  "lat":"41.145396"
+               },
+               {  
+                  "ename":"Chaoyang City",
+                  "name":"朝阳市",
+                  "count":"83",
+                  "adminCode":"156211300",
+                  "lon":"120.067824",
+                  "lat":"41.398047"
+               },
+               {  
+                  "ename":"Fuxin City",
+                  "name":"阜新市",
+                  "count":"82",
+                  "adminCode":"156210900",
+                  "lon":"121.95552099999999",
+                  "lat":"42.279129999999995"
+               },
+               {  
+                  "ename":"Dandong City",
+                  "name":"丹东市",
+                  "count":"81",
+                  "adminCode":"156210600",
+                  "lon":"124.398879",
+                  "lat":"40.543955"
+               },
+               {  
+                  "ename":"Fushun City",
+                  "name":"抚顺市",
+                  "count":"74",
+                  "adminCode":"156210400",
+                  "lon":"124.655687",
+                  "lat":"41.833711"
+               },
+               {  
+                  "ename":"Tieling City",
+                  "name":"铁岭市",
+                  "count":"56",
+                  "adminCode":"156211200",
+                  "lon":"124.17092799999999",
+                  "lat":"42.643681"
+               },
+               {  
+                  "ename":"Panjin City",
+                  "name":"盘锦市",
+                  "count":"50",
+                  "adminCode":"156211100",
+                  "lon":"121.997675",
+                  "lat":"41.076702999999995"
+               },
+               {  
+                  "ename":"Benxi City",
+                  "name":"本溪市",
+                  "count":"45",
+                  "adminCode":"156210500",
+                  "lon":"125.235146",
+                  "lat":"41.293828999999995"
+               }
+            ],
+            "name":"辽宁省",
+            "count":"2673",
+            "adminCode":156210000,
+            "lon":"124.04907999999999",
+            "lat":"41.551095"
+         },
+         {  
+            "ename":"Guizhou Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Guiyang City",
+                  "name":"贵阳市",
+                  "count":"1613",
+                  "adminCode":"156520100",
+                  "lon":"106.706446",
+                  "lat":"26.84135"
+               },
+               {  
+                  "ename":"Qiandongnan Miao Dong Autonomous Prefecture",
+                  "name":"黔东南苗族侗族自治州",
+                  "count":"441",
+                  "adminCode":"156522600",
+                  "lon":"108.557779",
+                  "lat":"26.505743"
+               },
+               {  
+                  "ename":"Zunyi City",
+                  "name":"遵义市",
+                  "count":"285",
+                  "adminCode":"156520300",
+                  "lon":"107.08488299999999",
+                  "lat":"28.168487"
+               },
+               {  
+                  "ename":"Qianxinan Bouyei Miao Autonomous Prefecture",
+                  "name":"黔西南布依族苗族自治州",
+                  "count":"60",
+                  "adminCode":"156522300",
+                  "lon":"105.464019",
+                  "lat":"25.265608999999998"
+               },
+               {  
+                  "ename":"bijieshi",
+                  "name":"毕节市",
+                  "count":"54",
+                  "adminCode":"156520500",
+                  "lon":"105.21283299999999",
+                  "lat":"27.066530999999998"
+               },
+               {  
+                  "ename":"Qiannan Bouyei Miao Autonomous Prefecture",
+                  "name":"黔南布依族苗族自治州",
+                  "count":"51",
+                  "adminCode":"156522700",
+                  "lon":"107.25009299999999",
+                  "lat":"26.013081999999997"
+               },
+               {  
+                  "ename":"Anshun City",
+                  "name":"安顺市",
+                  "count":"46",
+                  "adminCode":"156520400",
+                  "lon":"105.94895799999999",
+                  "lat":"25.995064"
+               },
+               {  
+                  "ename":"tongrenshi",
+                  "name":"铜仁市",
+                  "count":"39",
+                  "adminCode":"156520600",
+                  "lon":"108.54128999999999",
+                  "lat":"27.971733"
+               },
+               {  
+                  "ename":"Liupanshui City",
+                  "name":"六盘水市",
+                  "count":"33",
+                  "adminCode":"156520200",
+                  "lon":"104.65954599999999",
+                  "lat":"25.871156"
+               }
+            ],
+            "name":"贵州省",
+            "count":"2622",
+            "adminCode":156520000,
+            "lon":"106.874804",
+            "lat":"26.815555"
+         },
+         {  
+            "ename":"Jiangxi Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Nanchang City",
+                  "name":"南昌市",
+                  "count":"1825",
+                  "adminCode":"156360100",
+                  "lon":"116.019567",
+                  "lat":"28.649696"
+               },
+               {  
+                  "ename":"Nanchang City",
+                  "name":"南昌市",
+                  "count":"1825",
+                  "adminCode":"156360100",
+                  "lon":"116.019567",
+                  "lat":"28.649696"
+               },
+               {  
+                  "ename":"Ganzhou City",
+                  "name":"赣州市",
+                  "count":"193",
+                  "adminCode":"156360700",
+                  "lon":"115.27304",
+                  "lat":"25.708907"
+               },
+               {  
+                  "ename":"Jiujiang City",
+                  "name":"九江市",
+                  "count":"133",
+                  "adminCode":"156360400",
+                  "lon":"115.45246499999999",
+                  "lat":"29.321938"
+               },
+               {  
+                  "ename":"Ji\u2019an City",
+                  "name":"吉安市",
+                  "count":"81",
+                  "adminCode":"156360800",
+                  "lon":"114.824781",
+                  "lat":"26.973347999999998"
+               },
+               {  
+                  "ename":"Jingdezhen City",
+                  "name":"景德镇市",
+                  "count":"78",
+                  "adminCode":"156360200",
+                  "lon":"117.27001",
+                  "lat":"29.307615"
+               },
+               {  
+                  "ename":"Yichun City",
+                  "name":"宜春市",
+                  "count":"73",
+                  "adminCode":"156360900",
+                  "lon":"115.014922",
+                  "lat":"28.549042999999998"
+               },
+               {  
+                  "ename":"Fuzhou City",
+                  "name":"抚州市",
+                  "count":"51",
+                  "adminCode":"156361000",
+                  "lon":"116.43457799999999",
+                  "lat":"27.509922999999997"
+               },
+               {  
+                  "ename":"Pingxiang City",
+                  "name":"萍乡市",
+                  "count":"49",
+                  "adminCode":"156360300",
+                  "lon":"113.902622",
+                  "lat":"27.511599999999998"
+               },
+               {  
+                  "ename":"Shangrao City",
+                  "name":"上饶市",
+                  "count":"45",
+                  "adminCode":"156361100",
+                  "lon":"117.91761299999999",
+                  "lat":"28.763692"
+               },
+               {  
+                  "ename":"Xinyu City",
+                  "name":"新余市",
+                  "count":"36",
+                  "adminCode":"156360500",
+                  "lon":"114.852172",
+                  "lat":"27.844735999999997"
+               },
+               {  
+                  "ename":"Yingtan City",
+                  "name":"鹰潭市",
+                  "count":"19",
+                  "adminCode":"156360600",
+                  "lon":"117.108301",
+                  "lat":"28.223924"
+               }
+            ],
+            "name":"江西省",
+            "count":"2583",
+            "adminCode":156360000,
+            "lon":"115.72224299999999",
+            "lat":"27.614138"
+         },
+         {  
+            "ename":"Guangdong Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Guangzhou City",
+                  "name":"广州市",
+                  "count":"1160",
+                  "adminCode":"156440100",
+                  "lon":"113.536514",
+                  "lat":"23.342677"
+               },
+               {  
+                  "ename":"Shenzhen City",
+                  "name":"深圳市",
+                  "count":"424",
+                  "adminCode":"156440300",
+                  "lon":"113.96881599999999",
+                  "lat":"22.662305999999997"
+               },
+               {  
+                  "ename":"Dongguan City",
+                  "name":"东莞市",
+                  "count":"166",
+                  "adminCode":"156441900",
+                  "lon":"113.70092899999999",
+                  "lat":"22.941609"
+               },
+               {  
+                  "ename":"Foshan City",
+                  "name":"佛山市",
+                  "count":"156",
+                  "adminCode":"156440600",
+                  "lon":"112.944322",
+                  "lat":"23.006546"
+               },
+               {  
+                  "ename":"Maoming City",
+                  "name":"茂名市",
+                  "count":"94",
+                  "adminCode":"156440900",
+                  "lon":"110.95183",
+                  "lat":"22.01492"
+               },
+               {  
+                  "ename":"Zhuhai City",
+                  "name":"珠海市",
+                  "count":"91",
+                  "adminCode":"156440400",
+                  "lon":"113.26064",
+                  "lat":"22.172257"
+               },
+               {  
+                  "ename":"Huizhou City",
+                  "name":"惠州市",
+                  "count":"83",
+                  "adminCode":"156441300",
+                  "lon":"114.498295",
+                  "lat":"23.244023"
+               },
+               {  
+                  "ename":"Zhongshan City",
+                  "name":"中山市",
+                  "count":"71",
+                  "adminCode":"156442000",
+                  "lon":"113.385075",
+                  "lat":"22.520878"
+               },
+               {  
+                  "ename":"Zhanjiang City",
+                  "name":"湛江市",
+                  "count":"44",
+                  "adminCode":"156440800",
+                  "lon":"110.315798",
+                  "lat":"20.465543"
+               },
+               {  
+                  "ename":"Heyuan City",
+                  "name":"河源市",
+                  "count":"35",
+                  "adminCode":"156441600",
+                  "lon":"114.957788",
+                  "lat":"24.044615"
+               },
+               {  
+                  "ename":"Jiangmen City",
+                  "name":"江门市",
+                  "count":"30",
+                  "adminCode":"156440700",
+                  "lon":"112.66878299999999",
+                  "lat":"22.298571"
+               },
+               {  
+                  "ename":"Meizhou City",
+                  "name":"梅州市",
+                  "count":"29",
+                  "adminCode":"156441400",
+                  "lon":"116.07942399999999",
+                  "lat":"24.203059"
+               },
+               {  
+                  "ename":"Zhaoqing City",
+                  "name":"肇庆市",
+                  "count":"27",
+                  "adminCode":"156441200",
+                  "lon":"112.20532999999999",
+                  "lat":"23.537691"
+               },
+               {  
+                  "ename":"Shantou City",
+                  "name":"汕头市",
+                  "count":"25",
+                  "adminCode":"156440500",
+                  "lon":"116.46987299999999",
+                  "lat":"23.265667"
+               },
+               {  
+                  "ename":"Shaoguan City",
+                  "name":"韶关市",
+                  "count":"22",
+                  "adminCode":"156440200",
+                  "lon":"113.774464",
+                  "lat":"24.820434"
+               },
+               {  
+                  "ename":"Qingyuan City",
+                  "name":"清远市",
+                  "count":"19",
+                  "adminCode":"156441800",
+                  "lon":"112.875013",
+                  "lat":"24.314290999999997"
+               },
+               {  
+                  "ename":"Jieyang City",
+                  "name":"揭阳市",
+                  "count":"14",
+                  "adminCode":"156445200",
+                  "lon":"116.11717499999999",
+                  "lat":"23.338782"
+               },
+               {  
+                  "ename":"Chaozhou City",
+                  "name":"潮州市",
+                  "count":"11",
+                  "adminCode":"156445100",
+                  "lon":"116.76865799999999",
+                  "lat":"23.800577999999998"
+               },
+               {  
+                  "ename":"Yunfu City",
+                  "name":"云浮市",
+                  "count":"11",
+                  "adminCode":"156445300",
+                  "lon":"111.78435599999999",
+                  "lat":"22.874682"
+               },
+               {  
+                  "ename":"Shanwei City",
+                  "name":"汕尾市",
+                  "count":"9",
+                  "adminCode":"156441500",
+                  "lon":"115.53112499999999",
+                  "lat":"23.01353"
+               },
+               {  
+                  "ename":"Yangjiang City",
+                  "name":"阳江市",
+                  "count":"9",
+                  "adminCode":"156441700",
+                  "lon":"111.770111",
+                  "lat":"22.044817"
+               }
+            ],
+            "name":"广东省",
+            "count":"2530",
+            "adminCode":156440000,
+            "lon":"113.428263",
+            "lat":"23.352082"
+         },
+         {  
+            "ename":"Anhui Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Wuhu City",
+                  "name":"芜湖市",
+                  "count":"538",
+                  "adminCode":"156340200",
+                  "lon":"118.129066",
+                  "lat":"31.15066"
+               },
+               {  
+                  "ename":"Hefei City",
+                  "name":"合肥市",
+                  "count":"522",
+                  "adminCode":"156340100",
+                  "lon":"117.34241999999999",
+                  "lat":"31.792554"
+               },
+               {  
+                  "ename":"Tongling City",
+                  "name":"铜陵市",
+                  "count":"280",
+                  "adminCode":"156340700",
+                  "lon":"117.560621",
+                  "lat":"30.889198999999998"
+               },
+               {  
+                  "ename":"Fuyang City",
+                  "name":"阜阳市",
+                  "count":"209",
+                  "adminCode":"156341200",
+                  "lon":"115.704473",
+                  "lat":"32.917263"
+               },
+               {  
+                  "ename":"Anqing City",
+                  "name":"安庆市",
+                  "count":"91",
+                  "adminCode":"156340800",
+                  "lon":"116.486322",
+                  "lat":"30.575976999999998"
+               },
+               {  
+                  "ename":"Bozhou City",
+                  "name":"亳州市",
+                  "count":"51",
+                  "adminCode":"156341600",
+                  "lon":"116.181474",
+                  "lat":"33.435216"
+               },
+               {  
+                  "ename":"Ma\u2019anshan City",
+                  "name":"马鞍山市",
+                  "count":"50",
+                  "adminCode":"156340500",
+                  "lon":"118.144223",
+                  "lat":"31.656397"
+               },
+               {  
+                  "ename":"Lu\u2019an City",
+                  "name":"六安市",
+                  "count":"49",
+                  "adminCode":"156341500",
+                  "lon":"116.229749",
+                  "lat":"31.659585"
+               },
+               {  
+                  "ename":"Huainan City",
+                  "name":"淮南市",
+                  "count":"48",
+                  "adminCode":"156340400",
+                  "lon":"116.747907",
+                  "lat":"32.466361"
+               },
+               {  
+                  "ename":"Suzhou City",
+                  "name":"宿州市",
+                  "count":"47",
+                  "adminCode":"156341300",
+                  "lon":"117.210988",
+                  "lat":"33.858768999999995"
+               },
+               {  
+                  "ename":"Bengbu City",
+                  "name":"蚌埠市",
+                  "count":"38",
+                  "adminCode":"156340300",
+                  "lon":"117.32502",
+                  "lat":"33.108754999999995"
+               },
+               {  
+                  "ename":"Xuancheng City",
+                  "name":"宣城市",
+                  "count":"33",
+                  "adminCode":"156341800",
+                  "lon":"118.85171799999999",
+                  "lat":"30.685654"
+               },
+               {  
+                  "ename":"Huaibei City",
+                  "name":"淮北市",
+                  "count":"31",
+                  "adminCode":"156340600",
+                  "lon":"116.739589",
+                  "lat":"33.720355"
+               },
+               {  
+                  "ename":"Chizhou City",
+                  "name":"池州市",
+                  "count":"18",
+                  "adminCode":"156341700",
+                  "lon":"117.364041",
+                  "lat":"30.284626999999997"
+               }
+            ],
+            "name":"安徽省",
+            "count":"2141",
+            "adminCode":156340000,
+            "lon":"117.226326",
+            "lat":"31.825833999999997"
+         },
+         {  
+            "ename":"Gansu Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Jinchang City",
+                  "name":"金昌市",
+                  "count":"702",
+                  "adminCode":"156620300",
+                  "lon":"102.046763",
+                  "lat":"38.43252"
+               },
+               {  
+                  "ename":"Lanzhou City",
+                  "name":"兰州市",
+                  "count":"322",
+                  "adminCode":"156620100",
+                  "lon":"103.637974",
+                  "lat":"36.355205999999995"
+               },
+               {  
+                  "ename":"Baiyin City",
+                  "name":"白银市",
+                  "count":"239",
+                  "adminCode":"156620400",
+                  "lon":"105.027064",
+                  "lat":"36.229375"
+               },
+               {  
+                  "ename":"Zhangye City",
+                  "name":"张掖市",
+                  "count":"77",
+                  "adminCode":"156620700",
+                  "lon":"99.82923699999999",
+                  "lat":"38.952843"
+               },
+               {  
+                  "ename":"Jiuquan City",
+                  "name":"酒泉市",
+                  "count":"70",
+                  "adminCode":"156620900",
+                  "lon":"96.055951",
+                  "lat":"40.260332999999996"
+               },
+               {  
+                  "ename":"Tianshui City",
+                  "name":"天水市",
+                  "count":"64",
+                  "adminCode":"156620500",
+                  "lon":"105.73717699999999",
+                  "lat":"34.647473999999995"
+               },
+               {  
+                  "ename":"Qingyang City",
+                  "name":"庆阳市",
+                  "count":"61",
+                  "adminCode":"156621000",
+                  "lon":"107.59038",
+                  "lat":"36.162101"
+               },
+               {  
+                  "ename":"Wuwei City",
+                  "name":"武威市",
+                  "count":"59",
+                  "adminCode":"156620600",
+                  "lon":"103.05897499999999",
+                  "lat":"38.176719"
+               },
+               {  
+                  "ename":"Jiayuguan City",
+                  "name":"嘉峪关市",
+                  "count":"49",
+                  "adminCode":"156620200",
+                  "lon":"98.21065999999999",
+                  "lat":"39.82839"
+               },
+               {  
+                  "ename":"Pingliang City",
+                  "name":"平凉市",
+                  "count":"49",
+                  "adminCode":"156620800",
+                  "lon":"107.230012",
+                  "lat":"35.198440999999995"
+               },
+               {  
+                  "ename":"Dingxi City",
+                  "name":"定西市",
+                  "count":"42",
+                  "adminCode":"156621100",
+                  "lon":"104.45273399999999",
+                  "lat":"35.119253"
+               },
+               {  
+                  "ename":"Longnan City",
+                  "name":"陇南市",
+                  "count":"26",
+                  "adminCode":"156621200",
+                  "lon":"105.220376",
+                  "lat":"33.597086"
+               },
+               {  
+                  "ename":"Linxia Hui Autonomous Prefecture",
+                  "name":"临夏回族自治州",
+                  "count":"22",
+                  "adminCode":"156622900",
+                  "lon":"103.280549",
+                  "lat":"35.629902"
+               },
+               {  
+                  "ename":"Gannan Zang Autonomous Prefecture",
+                  "name":"甘南藏族自治州",
+                  "count":"1",
+                  "adminCode":"156623000",
+                  "lon":"102.760987",
+                  "lat":"34.857929"
+               }
+            ],
+            "name":"甘肃省",
+            "count":"1783",
+            "adminCode":156620000,
+            "lon":"96.43096",
+            "lat":"40.503817999999995"
+         },
+         {  
+            "ename":"Inner Mongolia Autonomous Region",
+            "childAdmins":[  
+               {  
+                  "ename":"Wulanchabu City",
+                  "name":"乌兰察布市",
+                  "count":"320",
+                  "adminCode":"156150900",
+                  "lon":"112.443626",
+                  "lat":"41.681875"
+               },
+               {  
+                  "ename":"Hohhot City",
+                  "name":"呼和浩特市",
+                  "count":"311",
+                  "adminCode":"156150100",
+                  "lon":"111.49799999999999",
+                  "lat":"40.591054"
+               },
+               {  
+                  "ename":"Baotou City",
+                  "name":"包头市",
+                  "count":"261",
+                  "adminCode":"156150200",
+                  "lon":"110.260583",
+                  "lat":"41.548649999999995"
+               },
+               {  
+                  "ename":"Bayannao\u2019er City",
+                  "name":"巴彦淖尔市",
+                  "count":"193",
+                  "adminCode":"156150800",
+                  "lon":"107.53955099999999",
+                  "lat":"41.570468"
+               },
+               {  
+                  "ename":"E\u2019erduosi City",
+                  "name":"鄂尔多斯市",
+                  "count":"157",
+                  "adminCode":"156150600",
+                  "lon":"108.62854499999999",
+                  "lat":"39.411685999999996"
+               },
+               {  
+                  "ename":"Chifeng City",
+                  "name":"赤峰市",
+                  "count":"111",
+                  "adminCode":"156150400",
+                  "lon":"118.87121099999999",
+                  "lat":"43.221424999999996"
+               },
+               {  
+                  "ename":"Xilinguole League",
+                  "name":"锡林郭勒盟",
+                  "count":"92",
+                  "adminCode":"156152500",
+                  "lon":"115.48396",
+                  "lat":"44.193262999999995"
+               },
+               {  
+                  "ename":"Tongliao City",
+                  "name":"通辽市",
+                  "count":"75",
+                  "adminCode":"156150500",
+                  "lon":"121.57003399999999",
+                  "lat":"43.815856"
+               },
+               {  
+                  "ename":"Wuhai City",
+                  "name":"乌海市",
+                  "count":"69",
+                  "adminCode":"156150300",
+                  "lon":"106.869508",
+                  "lat":"39.424983"
+               },
+               {  
+                  "ename":"Hulunbei\u2019er City",
+                  "name":"呼伦贝尔市",
+                  "count":"65",
+                  "adminCode":"156150700",
+                  "lon":"121.19744999999999",
+                  "lat":"49.66173"
+               },
+               {  
+                  "ename":"Alashan League",
+                  "name":"阿拉善盟",
+                  "count":"40",
+                  "adminCode":"156152900",
+                  "lon":"102.448404",
+                  "lat":"40.49733"
+               },
+               {  
+                  "ename":"Xing\u2019an League",
+                  "name":"兴安盟",
+                  "count":"18",
+                  "adminCode":"156152200",
+                  "lon":"121.336761",
+                  "lat":"46.225010999999995"
+               }
+            ],
+            "name":"内蒙古自治区",
+            "count":"1712",
+            "adminCode":156150000,
+            "lon":"111.619726",
+            "lat":"41.580548"
+         },
+         {  
+            "ename":"Shanxi Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Taiyuan City",
+                  "name":"太原市",
+                  "count":"463",
+                  "adminCode":"156140100",
+                  "lon":"112.32961399999999",
+                  "lat":"37.881205"
+               },
+               {  
+                  "ename":"Xinzhou City",
+                  "name":"忻州市",
+                  "count":"181",
+                  "adminCode":"156140900",
+                  "lon":"112.45006699999999",
+                  "lat":"38.681819999999995"
+               },
+               {  
+                  "ename":"Datong City",
+                  "name":"大同市",
+                  "count":"154",
+                  "adminCode":"156140200",
+                  "lon":"113.72229999999999",
+                  "lat":"39.899367"
+               },
+               {  
+                  "ename":"Linfen City",
+                  "name":"临汾市",
+                  "count":"154",
+                  "adminCode":"156141000",
+                  "lon":"111.37701299999999",
+                  "lat":"36.226717"
+               },
+               {  
+                  "ename":"Yuncheng City",
+                  "name":"运城市",
+                  "count":"146",
+                  "adminCode":"156140800",
+                  "lon":"111.06188399999999",
+                  "lat":"35.186693999999996"
+               },
+               {  
+                  "ename":"Changzhi City",
+                  "name":"长治市",
+                  "count":"114",
+                  "adminCode":"156140400",
+                  "lon":"112.91644",
+                  "lat":"36.47533"
+               },
+               {  
+                  "ename":"Jinzhong City",
+                  "name":"晋中市",
+                  "count":"97",
+                  "adminCode":"156140700",
+                  "lon":"112.96189799999999",
+                  "lat":"37.326781"
+               },
+               {  
+                  "ename":"Shuozhou City",
+                  "name":"朔州市",
+                  "count":"94",
+                  "adminCode":"156140600",
+                  "lon":"112.72830599999999",
+                  "lat":"39.452762"
+               },
+               {  
+                  "ename":"Lvliang City",
+                  "name":"吕梁市",
+                  "count":"81",
+                  "adminCode":"156141100",
+                  "lon":"111.26266",
+                  "lat":"37.678764"
+               },
+               {  
+                  "ename":"Jincheng City",
+                  "name":"晋城市",
+                  "count":"63",
+                  "adminCode":"156140500",
+                  "lon":"112.706869",
+                  "lat":"35.610602"
+               },
+               {  
+                  "ename":"Yangquan City",
+                  "name":"阳泉市",
+                  "count":"60",
+                  "adminCode":"156140300",
+                  "lon":"113.49769699999999",
+                  "lat":"38.063849999999995"
+               }
+            ],
+            "name":"山西省",
+            "count":"1607",
+            "adminCode":156140000,
+            "lon":"112.288799",
+            "lat":"37.571248"
+         },
+         {  
+            "ename":"Zhejiang Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Hangzhou City",
+                  "name":"杭州市",
+                  "count":"434",
+                  "adminCode":"156330100",
+                  "lon":"119.47034099999999",
+                  "lat":"29.900271"
+               },
+               {  
+                  "ename":"Ningbo City",
+                  "name":"宁波市",
+                  "count":"203",
+                  "adminCode":"156330200",
+                  "lon":"121.456424",
+                  "lat":"29.735091999999998"
+               },
+               {  
+                  "ename":"Taizhou City",
+                  "name":"台州市",
+                  "count":"181",
+                  "adminCode":"156331000",
+                  "lon":"121.00841399999999",
+                  "lat":"28.902034999999998"
+               },
+               {  
+                  "ename":"Jiaxing City",
+                  "name":"嘉兴市",
+                  "count":"178",
+                  "adminCode":"156330400",
+                  "lon":"120.75818199999999",
+                  "lat":"30.635085"
+               },
+               {  
+                  "ename":"Jinhua City",
+                  "name":"金华市",
+                  "count":"164",
+                  "adminCode":"156330700",
+                  "lon":"119.952112",
+                  "lat":"29.118267999999997"
+               },
+               {  
+                  "ename":"Shaoxing City",
+                  "name":"绍兴市",
+                  "count":"161",
+                  "adminCode":"156330600",
+                  "lon":"120.63663299999999",
+                  "lat":"29.735369"
+               },
+               {  
+                  "ename":"Wenzhou City",
+                  "name":"温州市",
+                  "count":"118",
+                  "adminCode":"156330300",
+                  "lon":"120.02901999999999",
+                  "lat":"27.645608"
+               },
+               {  
+                  "ename":"Huzhou City",
+                  "name":"湖州市",
+                  "count":"79",
+                  "adminCode":"156330500",
+                  "lon":"119.86850199999999",
+                  "lat":"30.744733"
+               },
+               {  
+                  "ename":"Zhoushan City",
+                  "name":"舟山市",
+                  "count":"39",
+                  "adminCode":"156330900",
+                  "lon":"122.14212699999999",
+                  "lat":"30.058837999999998"
+               },
+               {  
+                  "ename":"Quzhou City",
+                  "name":"衢州市",
+                  "count":"28",
+                  "adminCode":"156330800",
+                  "lon":"118.674571",
+                  "lat":"28.93452"
+               },
+               {  
+                  "ename":"Lishui City",
+                  "name":"丽水市",
+                  "count":"14",
+                  "adminCode":"156331100",
+                  "lon":"119.51193599999999",
+                  "lat":"28.199317999999998"
+               }
+            ],
+            "name":"浙江省",
+            "count":"1599",
+            "adminCode":156330000,
+            "lon":"120.06772699999999",
+            "lat":"29.174674999999997"
+         },
+         {  
+            "ename":"Jilin Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Jilin City",
+                  "name":"吉林市",
+                  "count":"640",
+                  "adminCode":"156220200",
+                  "lon":"126.843398",
+                  "lat":"43.579851"
+               },
+               {  
+                  "ename":"Changchun City",
+                  "name":"长春市",
+                  "count":"523",
+                  "adminCode":"156220100",
+                  "lon":"125.766228",
+                  "lat":"44.382857"
+               },
+               {  
+                  "ename":"Songyuan City",
+                  "name":"松原市",
+                  "count":"88",
+                  "adminCode":"156220700",
+                  "lon":"123.878954",
+                  "lat":"44.588021999999995"
+               },
+               {  
+                  "ename":"Yanbian Chaoxian Autonomous Prefecture",
+                  "name":"延边朝鲜族自治州",
+                  "count":"81",
+                  "adminCode":"156222400",
+                  "lon":"128.425962",
+                  "lat":"43.240973"
+               },
+               {  
+                  "ename":"Siping City",
+                  "name":"四平市",
+                  "count":"64",
+                  "adminCode":"156220300",
+                  "lon":"124.46637899999999",
+                  "lat":"43.570071999999996"
+               },
+               {  
+                  "ename":"Baicheng City",
+                  "name":"白城市",
+                  "count":"45",
+                  "adminCode":"156220800",
+                  "lon":"123.011879",
+                  "lat":"45.346609"
+               },
+               {  
+                  "ename":"Tonghua City",
+                  "name":"通化市",
+                  "count":"44",
+                  "adminCode":"156220500",
+                  "lon":"125.94909",
+                  "lat":"41.955982999999996"
+               },
+               {  
+                  "ename":"Baishan City",
+                  "name":"白山市",
+                  "count":"27",
+                  "adminCode":"156220600",
+                  "lon":"127.28525599999999",
+                  "lat":"42.06964"
+               },
+               {  
+                  "ename":"Liaoyuan City",
+                  "name":"辽源市",
+                  "count":"21",
+                  "adminCode":"156220400",
+                  "lon":"125.305455",
+                  "lat":"42.810936999999996"
+               }
+            ],
+            "name":"吉林省",
+            "count":"1533",
+            "adminCode":156220000,
+            "lon":"126.187427",
+            "lat":"43.668329"
+         },
+         {  
+            "ename":"guangxizhuangzuzizhiqu",
+            "childAdmins":[  
+               {  
+                  "ename":"Beihai City",
+                  "name":"北海市",
+                  "count":"511",
+                  "adminCode":"156450500",
+                  "lon":"109.333524",
+                  "lat":"21.68215"
+               },
+               {  
+                  "ename":"Nanning City",
+                  "name":"南宁市",
+                  "count":"392",
+                  "adminCode":"156450100",
+                  "lon":"108.46332199999999",
+                  "lat":"23.056922"
+               },
+               {  
+                  "ename":"Guilin City",
+                  "name":"桂林市",
+                  "count":"93",
+                  "adminCode":"156450300",
+                  "lon":"110.51422",
+                  "lat":"25.354809"
+               },
+               {  
+                  "ename":"Liuzhou City",
+                  "name":"柳州市",
+                  "count":"79",
+                  "adminCode":"156450200",
+                  "lon":"109.371426",
+                  "lat":"24.947475999999998"
+               },
+               {  
+                  "ename":"Hechi City",
+                  "name":"河池市",
+                  "count":"54",
+                  "adminCode":"156451200",
+                  "lon":"107.862532",
+                  "lat":"24.367026"
+               },
+               {  
+                  "ename":"Baise City",
+                  "name":"百色市",
+                  "count":"45",
+                  "adminCode":"156451000",
+                  "lon":"107.02420199999999",
+                  "lat":"23.668069"
+               },
+               {  
+                  "ename":"Yulin City",
+                  "name":"玉林市",
+                  "count":"43",
+                  "adminCode":"156450900",
+                  "lon":"110.18156599999999",
+                  "lat":"22.441409"
+               },
+               {  
+                  "ename":"Qinzhou City",
+                  "name":"钦州市",
+                  "count":"29",
+                  "adminCode":"156450700",
+                  "lon":"109.025443",
+                  "lat":"22.184003"
+               },
+               {  
+                  "ename":"Chongzuo City",
+                  "name":"崇左市",
+                  "count":"29",
+                  "adminCode":"156451400",
+                  "lon":"107.272734",
+                  "lat":"22.503401"
+               },
+               {  
+                  "ename":"Wuzhou City",
+                  "name":"梧州市",
+                  "count":"26",
+                  "adminCode":"156450400",
+                  "lon":"110.991479",
+                  "lat":"23.200515"
+               },
+               {  
+                  "ename":"Guigang City",
+                  "name":"贵港市",
+                  "count":"25",
+                  "adminCode":"156450800",
+                  "lon":"109.99843",
+                  "lat":"23.308366"
+               },
+               {  
+                  "ename":"Hezhou City",
+                  "name":"贺州市",
+                  "count":"24",
+                  "adminCode":"156451100",
+                  "lon":"111.362352",
+                  "lat":"24.360072"
+               },
+               {  
+                  "ename":"Laibin City",
+                  "name":"来宾市",
+                  "count":"21",
+                  "adminCode":"156451300",
+                  "lon":"109.43398499999999",
+                  "lat":"23.645536999999997"
+               },
+               {  
+                  "ename":"Fangchenggang City",
+                  "name":"防城港市",
+                  "count":"20",
+                  "adminCode":"156450600",
+                  "lon":"107.99558499999999",
+                  "lat":"21.884294"
+               }
+            ],
+            "name":"广西壮族自治区",
+            "count":"1391",
+            "adminCode":156450000,
+            "lon":"108.274079",
+            "lat":"23.686087"
+         },
+         {  
+            "ename":"Heilongjiang Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Ha\u2019erbin City",
+                  "name":"哈尔滨市",
+                  "count":"615",
+                  "adminCode":"156230100",
+                  "lon":"127.95726599999999",
+                  "lat":"45.637347"
+               },
+               {  
+                  "ename":"Qiqiha\u2019er City",
+                  "name":"齐齐哈尔市",
+                  "count":"182",
+                  "adminCode":"156230200",
+                  "lon":"124.545603",
+                  "lat":"47.699670999999995"
+               },
+               {  
+                  "ename":"Mudanjiang City",
+                  "name":"牡丹江市",
+                  "count":"132",
+                  "adminCode":"156231000",
+                  "lon":"129.88919099999998",
+                  "lat":"44.596215"
+               },
+               {  
+                  "ename":"Jiamusi City",
+                  "name":"佳木斯市",
+                  "count":"109",
+                  "adminCode":"156230800",
+                  "lon":"133.688996",
+                  "lat":"47.861114"
+               },
+               {  
+                  "ename":"Daqing City",
+                  "name":"大庆市",
+                  "count":"67",
+                  "adminCode":"156230600",
+                  "lon":"124.699686",
+                  "lat":"46.347159"
+               },
+               {  
+                  "ename":"Heihe City",
+                  "name":"黑河市",
+                  "count":"65",
+                  "adminCode":"156231100",
+                  "lon":"126.98569699999999",
+                  "lat":"49.263090999999996"
+               },
+               {  
+                  "ename":"Suihua City",
+                  "name":"绥化市",
+                  "count":"41",
+                  "adminCode":"156231200",
+                  "lon":"126.64526099999999",
+                  "lat":"46.893498"
+               },
+               {  
+                  "ename":"Jixi City",
+                  "name":"鸡西市",
+                  "count":"38",
+                  "adminCode":"156230300",
+                  "lon":"132.166158",
+                  "lat":"45.535152"
+               },
+               {  
+                  "ename":"Yichun City",
+                  "name":"伊春市",
+                  "count":"36",
+                  "adminCode":"156230700",
+                  "lon":"129.211493",
+                  "lat":"47.811837999999995"
+               },
+               {  
+                  "ename":"Qitaihe City",
+                  "name":"七台河市",
+                  "count":"31",
+                  "adminCode":"156230900",
+                  "lon":"131.01235",
+                  "lat":"45.85194"
+               },
+               {  
+                  "ename":"Shuangyashan City",
+                  "name":"双鸭山市",
+                  "count":"29",
+                  "adminCode":"156230500",
+                  "lon":"132.494249",
+                  "lat":"46.398612"
+               },
+               {  
+                  "ename":"Hegang City",
+                  "name":"鹤岗市",
+                  "count":"26",
+                  "adminCode":"156230400",
+                  "lon":"130.37899299999998",
+                  "lat":"47.708608"
+               },
+               {  
+                  "ename":"Hegang City",
+                  "name":"鹤岗市",
+                  "count":"26",
+                  "adminCode":"156230400",
+                  "lon":"130.37899299999998",
+                  "lat":"47.708608"
+               },
+               {  
+                  "ename":"Daxing\u2019anling Prefecture",
+                  "name":"大兴安岭地区",
+                  "count":"1",
+                  "adminCode":"156232700",
+                  "lon":"124.203526",
+                  "lat":"52.3259"
+               }
+            ],
+            "name":"黑龙江省",
+            "count":"1372",
+            "adminCode":156230000,
+            "lon":"128.13531899999998",
+            "lat":"46.951898"
+         },
+         {  
+            "ename":"Hunan Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Changsha City",
+                  "name":"长沙市",
+                  "count":"612",
+                  "adminCode":"156430100",
+                  "lon":"113.15292199999999",
+                  "lat":"28.22691"
+               },
+               {  
+                  "ename":"Hengyang City",
+                  "name":"衡阳市",
+                  "count":"112",
+                  "adminCode":"156430400",
+                  "lon":"112.574362",
+                  "lat":"26.794285"
+               },
+               {  
+                  "ename":"Zhuzhou City",
+                  "name":"株洲市",
+                  "count":"96",
+                  "adminCode":"156430200",
+                  "lon":"113.516544",
+                  "lat":"27.120103"
+               },
+               {  
+                  "ename":"Shaoyang City",
+                  "name":"邵阳市",
+                  "count":"95",
+                  "adminCode":"156430500",
+                  "lon":"110.874899",
+                  "lat":"26.913677"
+               },
+               {  
+                  "ename":"Xiangtan City",
+                  "name":"湘潭市",
+                  "count":"82",
+                  "adminCode":"156430300",
+                  "lon":"112.602851",
+                  "lat":"27.731597999999998"
+               },
+               {  
+                  "ename":"Loudi City",
+                  "name":"娄底市",
+                  "count":"65",
+                  "adminCode":"156431300",
+                  "lon":"111.204004",
+                  "lat":"27.85964"
+               },
+               {  
+                  "ename":"Yueyang City",
+                  "name":"岳阳市",
+                  "count":"63",
+                  "adminCode":"156430600",
+                  "lon":"113.254386",
+                  "lat":"29.066103"
+               },
+               {  
+                  "ename":"Yiyang City",
+                  "name":"益阳市",
+                  "count":"52",
+                  "adminCode":"156430900",
+                  "lon":"111.65271",
+                  "lat":"28.020628"
+               },
+               {  
+                  "ename":"Changde City",
+                  "name":"常德市",
+                  "count":"46",
+                  "adminCode":"156430700",
+                  "lon":"111.519471",
+                  "lat":"29.300203999999997"
+               },
+               {  
+                  "ename":"Yongzhou City",
+                  "name":"永州市",
+                  "count":"38",
+                  "adminCode":"156431100",
+                  "lon":"111.729872",
+                  "lat":"25.774226"
+               },
+               {  
+                  "ename":"Huaihua City",
+                  "name":"怀化市",
+                  "count":"37",
+                  "adminCode":"156431200",
+                  "lon":"110.075389",
+                  "lat":"27.548790999999998"
+               },
+               {  
+                  "ename":"Chenzhou City",
+                  "name":"郴州市",
+                  "count":"36",
+                  "adminCode":"156431000",
+                  "lon":"113.13685799999999",
+                  "lat":"25.814563999999997"
+               },
+               {  
+                  "ename":"Zhangjiajie City",
+                  "name":"张家界市",
+                  "count":"20",
+                  "adminCode":"156430800",
+                  "lon":"110.525852",
+                  "lat":"29.393473999999998"
+               },
+               {  
+                  "ename":"Xiangxi Tujia Miao Autonomous Prefecture",
+                  "name":"湘西土家族苗族自治州",
+                  "count":"11",
+                  "adminCode":"156433100",
+                  "lon":"109.72689",
+                  "lat":"28.694817999999998"
+               }
+            ],
+            "name":"湖南省",
+            "count":"1365",
+            "adminCode":156430000,
+            "lon":"111.70901699999999",
+            "lat":"27.609896"
+         },
+         {  
+            "ename":"Shaanxi Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Xi\u2019an City",
+                  "name":"西安市",
+                  "count":"781",
+                  "adminCode":"156610100",
+                  "lon":"108.791885",
+                  "lat":"34.106950999999995"
+               },
+               {  
+                  "ename":"Xianyang City",
+                  "name":"咸阳市",
+                  "count":"138",
+                  "adminCode":"156610400",
+                  "lon":"108.390366",
+                  "lat":"34.784707"
+               },
+               {  
+                  "ename":"Yulin City",
+                  "name":"榆林市",
+                  "count":"93",
+                  "adminCode":"156610800",
+                  "lon":"109.566216",
+                  "lat":"38.038545"
+               },
+               {  
+                  "ename":"Weinan City",
+                  "name":"渭南市",
+                  "count":"88",
+                  "adminCode":"156610500",
+                  "lon":"109.848941",
+                  "lat":"34.949064"
+               },
+               {  
+                  "ename":"Baoji City",
+                  "name":"宝鸡市",
+                  "count":"58",
+                  "adminCode":"156610300",
+                  "lon":"107.200014",
+                  "lat":"34.378474"
+               },
+               {  
+                  "ename":"Hanzhong City",
+                  "name":"汉中市",
+                  "count":"46",
+                  "adminCode":"156610700",
+                  "lon":"107.101473",
+                  "lat":"33.090866999999996"
+               },
+               {  
+                  "ename":"Yan\u2019an City",
+                  "name":"延安市",
+                  "count":"45",
+                  "adminCode":"156610600",
+                  "lon":"109.315238",
+                  "lat":"36.436813"
+               },
+               {  
+                  "ename":"Ankang City",
+                  "name":"安康市",
+                  "count":"26",
+                  "adminCode":"156610900",
+                  "lon":"108.92678599999999",
+                  "lat":"32.757261"
+               },
+               {  
+                  "ename":"Shangluo City",
+                  "name":"商洛市",
+                  "count":"23",
+                  "adminCode":"156611000",
+                  "lon":"109.901478",
+                  "lat":"33.647253"
+               },
+               {  
+                  "ename":"Tongchuan City",
+                  "name":"铜川市",
+                  "count":"19",
+                  "adminCode":"156610200",
+                  "lon":"109.032247",
+                  "lat":"35.195733"
+               }
+            ],
+            "name":"陕西省",
+            "count":"1317",
+            "adminCode":156610000,
+            "lon":"108.364836",
+            "lat":"33.769937999999996"
+         },
+         {  
+            "ename":"Tibet",
+            "childAdmins":[  
+               {  
+                  "ename":"Lhasa City",
+                  "name":"拉萨市",
+                  "count":"880",
+                  "adminCode":"156540100",
+                  "lon":"91.089997",
+                  "lat":"30.037163999999997"
+               },
+               {  
+                  "ename":"rikazediqu",
+                  "name":"日喀则地区",
+                  "count":"4",
+                  "adminCode":"156540202",
+                  "lon":"88.94810299999999",
+                  "lat":"29.264975999999997"
+               },
+               {  
+                  "ename":"rikazeshi",
+                  "name":"日喀则市",
+                  "count":"4",
+                  "adminCode":"156540202",
+                  "lon":"88.94810299999999",
+                  "lat":"29.264975999999997"
+               },
+               {  
+                  "ename":"Naqu Prefecture",
+                  "name":"那曲地区",
+                  "count":"1",
+                  "adminCode":"156542400",
+                  "lon":"89.264319",
+                  "lat":"32.739630999999996"
+               }
+            ],
+            "name":"西藏自治区",
+            "count":"893",
+            "adminCode":156540000,
+            "lon":"88.441654",
+            "lat":"31.490813"
+         },
+         {  
+            "ename":"Tianjin City",
+            "name":"天津市",
+            "count":"877",
+            "adminCode":156120000,
+            "lon":"117.328362",
+            "lat":"39.300927"
+         },
+         {  
+            "ename":"Chongqing City",
+            "name":"重庆市",
+            "count":"853",
+            "adminCode":156500000,
+            "lon":"107.874471",
+            "lat":"30.05718"
+         },
+         {  
+            "ename":"Fujian Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Xiamen City",
+                  "name":"厦门市",
+                  "count":"188",
+                  "adminCode":"156350200",
+                  "lon":"118.11593599999999",
+                  "lat":"24.737868"
+               },
+               {  
+                  "ename":"Fuzhou City",
+                  "name":"福州市",
+                  "count":"187",
+                  "adminCode":"156350100",
+                  "lon":"119.15894499999999",
+                  "lat":"26.063330999999998"
+               },
+               {  
+                  "ename":"Quanzhou City",
+                  "name":"泉州市",
+                  "count":"138",
+                  "adminCode":"156350500",
+                  "lon":"118.25456399999999",
+                  "lat":"25.210157"
+               },
+               {  
+                  "ename":"Zhangzhou City",
+                  "name":"漳州市",
+                  "count":"109",
+                  "adminCode":"156350600",
+                  "lon":"117.44359999999999",
+                  "lat":"24.378221999999997"
+               },
+               {  
+                  "ename":"Longyan City",
+                  "name":"龙岩市",
+                  "count":"35",
+                  "adminCode":"156350800",
+                  "lon":"116.738687",
+                  "lat":"25.293053"
+               },
+               {  
+                  "ename":"Ningde City",
+                  "name":"宁德市",
+                  "count":"32",
+                  "adminCode":"156350900",
+                  "lon":"119.467114",
+                  "lat":"26.977563999999997"
+               },
+               {  
+                  "ename":"Sanming City",
+                  "name":"三明市",
+                  "count":"30",
+                  "adminCode":"156350400",
+                  "lon":"117.396155",
+                  "lat":"26.298748"
+               },
+               {  
+                  "ename":"Nanping City",
+                  "name":"南平市",
+                  "count":"29",
+                  "adminCode":"156350700",
+                  "lon":"118.142202",
+                  "lat":"27.339399999999998"
+               },
+               {  
+                  "ename":"Putian City",
+                  "name":"莆田市",
+                  "count":"20",
+                  "adminCode":"156350300",
+                  "lon":"118.880799",
+                  "lat":"25.455289"
+               }
+            ],
+            "name":"福建省",
+            "count":"768",
+            "adminCode":156350000,
+            "lon":"117.98097",
+            "lat":"26.083409"
+         },
+         {  
+            "ename":"Hong Kong Special Administrative Region",
+            "childAdmins":[  
+               {  
+                  "ename":"Yau Tsim Mong District",
+                  "name":"油尖旺區",
+                  "count":"218",
+                  "adminCode":"156810109",
+                  "lon":"114.168048",
+                  "lat":"22.310026999999998"
+               },
+               {  
+                  "ename":"Central & Western District",
+                  "name":"中西區",
+                  "count":"15",
+                  "adminCode":"156810101",
+                  "lon":"114.146896",
+                  "lat":"22.276239"
+               },
+               {  
+                  "ename":"Eastern District",
+                  "name":"東區",
+                  "count":"10",
+                  "adminCode":"156810102",
+                  "lon":"114.221391",
+                  "lat":"22.270923999999997"
+               },
+               {  
+                  "ename":"Kowloon City District",
+                  "name":"九龍城區",
+                  "count":"10",
+                  "adminCode":"156810103",
+                  "lon":"114.187445",
+                  "lat":"22.323074"
+               },
+               {  
+                  "ename":"Wan Chai District",
+                  "name":"灣仔區",
+                  "count":"9",
+                  "adminCode":"156810107",
+                  "lon":"114.18392",
+                  "lat":"22.26951"
+               },
+               {  
+                  "ename":"Yuen Long District",
+                  "name":"元朗區",
+                  "count":"8",
+                  "adminCode":"156810118",
+                  "lon":"114.04419499999999",
+                  "lat":"22.447398"
+               },
+               {  
+                  "ename":"Tai Po District",
+                  "name":"大埔區",
+                  "count":"6",
+                  "adminCode":"156810116",
+                  "lon":"114.28298",
+                  "lat":"22.483757999999998"
+               },
+               {  
+                  "ename":"Kwun Tong District",
+                  "name":"觀塘區",
+                  "count":"5",
+                  "adminCode":"156810104",
+                  "lon":"114.225684",
+                  "lat":"22.315944"
+               },
+               {  
+                  "ename":"Tsuen Wan District",
+                  "name":"荃灣區",
+                  "count":"5",
+                  "adminCode":"156810117",
+                  "lon":"114.100224",
+                  "lat":"22.384656"
+               },
+               {  
+                  "ename":"Sham Shui Po District",
+                  "name":"深水埗區",
+                  "count":"4",
+                  "adminCode":"156810106",
+                  "lon":"114.15316899999999",
+                  "lat":"22.333634999999997"
+               },
+               {  
+                  "ename":"Sha Tin District",
+                  "name":"沙田區",
+                  "count":"3",
+                  "adminCode":"156810114",
+                  "lon":"114.199708",
+                  "lat":"22.387864"
+               },
+               {  
+                  "ename":"Kwai Tsing District",
+                  "name":"葵青區",
+                  "count":"3",
+                  "adminCode":"156810111",
+                  "lon":"114.132094",
+                  "lat":"22.354575999999998"
+               },
+               {  
+                  "ename":"North District",
+                  "name":"北區",
+                  "count":"3",
+                  "adminCode":"156810112",
+                  "lon":"114.17116999999999",
+                  "lat":"22.511915"
+               },
+               {  
+                  "ename":"Sai Kung District",
+                  "name":"西貢區",
+                  "count":"3",
+                  "adminCode":"156810113",
+                  "lon":"114.313088",
+                  "lat":"22.410106"
+               },
+               {  
+                  "ename":"Tuen Mun District",
+                  "name":"屯門區",
+                  "count":"3",
+                  "adminCode":"156810115",
+                  "lon":"113.944856",
+                  "lat":"22.390992999999998"
+               },
+               {  
+                  "ename":"Islands District",
+                  "name":"離島區",
+                  "count":"1",
+                  "adminCode":"156810110",
+                  "lon":"113.937681",
+                  "lat":"22.256021999999998"
+               },
+               {  
+                  "ename":"Southern District",
+                  "name":"南區",
+                  "count":"1",
+                  "adminCode":"156810105",
+                  "lon":"114.199756",
+                  "lat":"22.240164"
+               },
+               {  
+                  "ename":"Wong Tai Sin District",
+                  "name":"黃大仙區",
+                  "count":"1",
+                  "adminCode":"156810108",
+                  "lon":"114.20286999999999",
+                  "lat":"22.343822"
+               }
+            ],
+            "name":"香港特別行政区",
+            "count":"308",
+            "adminCode":156810000,
+            "lon":"114.02744799999999",
+            "lat":"22.424341"
+         },
+         {  
+            "ename":"Qinghai Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Xining City",
+                  "name":"西宁市",
+                  "count":"214",
+                  "adminCode":"156630100",
+                  "lon":"101.43754",
+                  "lat":"36.827369999999995"
+               },
+               {  
+                  "ename":"haidongshi",
+                  "name":"海东市",
+                  "count":"21",
+                  "adminCode":"156630200",
+                  "lon":"102.343807",
+                  "lat":"36.331928999999995"
+               },
+               {  
+                  "ename":"Haixi Mongol Zang Autonomous Prefecture",
+                  "name":"海西蒙古族藏族自治州",
+                  "count":"20",
+                  "adminCode":"156632800",
+                  "lon":"91.634562",
+                  "lat":"37.937917"
+               },
+               {  
+                  "ename":"Hainan Zang Autonomous Prefecture",
+                  "name":"海南藏族自治州",
+                  "count":"14",
+                  "adminCode":"156632500",
+                  "lon":"100.25334099999999",
+                  "lat":"35.901841999999995"
+               },
+               {  
+                  "ename":"Haibei Zang Autonomous Prefecture",
+                  "name":"海北藏族自治州",
+                  "count":"7",
+                  "adminCode":"156632200",
+                  "lon":"100.30271599999999",
+                  "lat":"37.758915"
+               },
+               {  
+                  "ename":"Yushu Zang Autonomous Prefecture",
+                  "name":"玉树藏族自治州",
+                  "count":"4",
+                  "adminCode":"156632700",
+                  "lon":"94.321865",
+                  "lat":"34.210831"
+               },
+               {  
+                  "ename":"Huangnan Zang Autonomous Prefecture",
+                  "name":"黄南藏族自治州",
+                  "count":"3",
+                  "adminCode":"156632300",
+                  "lon":"101.569758",
+                  "lat":"34.848645"
+               },
+               {  
+                  "ename":"Guoluo Zang Autonomous Prefecture",
+                  "name":"果洛藏族自治州",
+                  "count":"2",
+                  "adminCode":"156632600",
+                  "lon":"99.41977899999999",
+                  "lat":"34.115579"
+               }
+            ],
+            "name":"青海省",
+            "count":"285",
+            "adminCode":156630000,
+            "lon":"96.039405",
+            "lat":"35.670815"
+         },
+         {  
+            "ename":"Hainan Province",
+            "childAdmins":[  
+               {  
+                  "ename":"Haikou City",
+                  "name":"海口市",
+                  "count":"127",
+                  "adminCode":"156460100",
+                  "lon":"110.42057299999999",
+                  "lat":"19.831635"
+               },
+               {  
+                  "ename":"Sanya City",
+                  "name":"三亚市",
+                  "count":"87",
+                  "adminCode":"156460200",
+                  "lon":"109.4186",
+                  "lat":"18.393307999999998"
+               },
+               {  
+                  "ename":"Qionghai City",
+                  "name":"琼海市",
+                  "count":"11",
+                  "adminCode":"156469002",
+                  "lon":"110.403539",
+                  "lat":"19.210389"
+               },
+               {  
+                  "ename":"danzhoushi",
+                  "name":"儋州市",
+                  "count":"9",
+                  "adminCode":"156460400",
+                  "lon":"109.403144",
+                  "lat":"19.566575999999998"
+               },
+               {  
+                  "ename":"Wanning City",
+                  "name":"万宁市",
+                  "count":"6",
+                  "adminCode":"156469006",
+                  "lon":"110.28114199999999",
+                  "lat":"18.835819"
+               },
+               {  
+                  "ename":"Wenchang City",
+                  "name":"文昌市",
+                  "count":"5",
+                  "adminCode":"156469005",
+                  "lon":"110.76953499999999",
+                  "lat":"19.746429"
+               },
+               {  
+                  "ename":"Sansha City",
+                  "name":"三沙市",
+                  "count":"2",
+                  "adminCode":"156460300",
+                  "lon":"117.73842599999999",
+                  "lat":"15.116474"
+               },
+               {  
+                  "ename":"Dongfang City",
+                  "name":"东方市",
+                  "count":"2",
+                  "adminCode":"156469007",
+                  "lon":"108.840677",
+                  "lat":"18.993869999999998"
+               },
+               {  
+                  "ename":"Chengmai County",
+                  "name":"澄迈县",
+                  "count":"1",
+                  "adminCode":"156469023",
+                  "lon":"109.98485199999999",
+                  "lat":"19.687469999999998"
+               },
+               {  
+                  "ename":"Tunchang County",
+                  "name":"屯昌县",
+                  "count":"1",
+                  "adminCode":"156469022",
+                  "lon":"110.051031",
+                  "lat":"19.34309"
+               },
+               {  
+                  "ename":"Ding\u2019an County",
+                  "name":"定安县",
+                  "count":"1",
+                  "adminCode":"156469021",
+                  "lon":"110.307904",
+                  "lat":"19.485121"
+               },
+               {  
+                  "ename":"Lingshui Li Autonomous County",
+                  "name":"陵水县",
+                  "count":"1",
+                  "adminCode":"156469028",
+                  "lon":"109.937997",
+                  "lat":"18.571289"
+               },
+               {  
+                  "ename":"Wuzhishan City",
+                  "name":"五指山市",
+                  "count":"1",
+                  "adminCode":"156469001",
+                  "lon":"109.506864",
+                  "lat":"18.826981"
+               },
+               {  
+                  "ename":"Baoting Li Miao Autonomous County",
+                  "name":"保亭县",
+                  "count":"1",
+                  "adminCode":"156469029",
+                  "lon":"109.645545",
+                  "lat":"18.592904"
+               }
+            ],
+            "name":"海南省",
+            "count":"255",
+            "adminCode":156460000,
+            "lon":"109.744006",
+            "lat":"19.195325999999998"
+         },
+         {  
+            "ename":"aomentebiexingzhengqu",
+            "name":"澳门特別行政区",
+            "count":"70",
+            "adminCode":156820000,
+            "lon":"113.567087",
+            "lat":"22.141965"
+         }
+      ],
+      "countryCount":1,
+      "keyword":"北京\u008d\u0097"
+   },
+   "keyWord":"北京\u008d\u0097"
