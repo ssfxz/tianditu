@@ -10,6 +10,8 @@ http://lbs.tianditu.com/api/js4.0/examples.html
 ## 天地图地图数据接口
 http://api.tianditu.com/search?postStr={"keyWord":"北京","level":"1","mapBound":"60,0,150,60","queryType":"1","start":"0","count":"10"}
 
+数据坐标系为CGCS2000
+
 
 ## 国家统计局发布的行政区目录
 
@@ -31,5 +33,7 @@ useage：> fetchData.py province.txt
 生成对应的目录以及聚合后的collect.js文件
 
 ## drawmap.html
-根据聚合后的collect.js数据绘制地图用以检验
-抓取的数据
+根据聚合后的collect.js数据绘制地图用以检验抓取的数据
+
+## Convert 2 GeoJson
+将地图数据转换为geojson类型的数据

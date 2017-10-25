@@ -4,36 +4,112 @@
 	<meta charset="UTF-8" />
 	<title>行政区域图</title>
 	<script type="text/javascript" src="http://api.tianditu.com/js/maps.js"></script>
-	<script type="text/javascript" src="libs/jquery-1.11.2.min.js"></script>
-	<script type="text/javascript" src="collect.js"></script>
+	<script type="text/javascript" src="./collect.js"></script>
+	<script type="text/javascript" src="./lib/FileSaver.js"></script>
 </head>
 <style type="text/css">
 	#mapDiv{
 		height: 800px;
 		margin: 10px;
 		border: 1px solid #ccc;
-		margin: 0 auto;                 			
+		margin: 0 auto;
 	}
 </style>
 
 
 <body>
 	<div id="mapDiv"></div>
+  	<input type="button" value="Convert 2 Geojson" onclick="geojson();" />
 	<script type="text/javascript">
 
+		function geojson() {
+			var features = collect.map(function(item) {
+				var name = item.name;
+				var cpStr = item.lonlat.split(",");
+				var cp = [parseFloat(cpStr[0]),parseFloat(cpStr[1])]
+
+				var re = new RegExp(/省$|市$|特別行政区$|族自治区$|维吾尔自治区$|自治区$/);
+				var res = re.exec(name);
+				// console.log(name);
+				// console.log(res);
+				
+				var id = "CHN_";
+				if (res) {
+					if (res[0] == "省" || res[0] == "市" || res[0] == "特別行政区"
+					 || res[0] == "维吾尔自治区" || res[0] == "自治区")
+						id += item.name.slice(0, res.index);
+					else if (res[0] == "族自治区")
+						id += item.name.slice(0, res.index - 1);
+				}
+				console.log(id);
+
+				var type = item.points.length > 1 ? "MultiPolygon" : "Polygon";
+				var coordinates = [];
+
+				var getPolygon = function(region) {
+					var points = region.region.split(","); 
+					var path = points.map(function(point) {
+						var p = point.split(" "); 
+						return [parseFloat(p[0]), parseFloat(p[1])];
+					});
+					return [path];
+				};
+
+				if (type == "MultiPolygon") {
+					item.points.forEach(function(region) {
+						coordinates.push(getPolygon(region));
+					});
+				}
+				else if (type == "Polygon") {
+					coordinates = getPolygon(item.points[0]);
+				}
+
+				var geometry = {
+					type: type,
+					coordinates: coordinates
+				}
+				console.log(geometry);
+
+				var feature = {
+					type: "Feature",
+					properties: {
+						id: id,
+						name: name,
+						cp: cp
+					},
+					geometry: geometry
+				}
+				return feature;
+			});
+
+			var geoObj = {
+				"type": "FeatureCollection",
+				"features": features
+			};
+
+			console.log(geoObj);
+			var geoStr = JSON.stringify(geoObj);
+			// console.log(geoStr);
+
+			var blob = new Blob([geoStr], {
+				type: 'application/json'
+			});
+			saveAs(blob, "geojson.json");
+		}
+
 		//加载基本地图和导航
-		function loadMap(){
+		function loadMap() {
 			try {
-	            map = new TMap("mapDiv"); //初始化地图对象
-	        	map.centerAndZoom(new TLngLat(105, 36), 4);//设置显示地图的中心点和级别
-	        	map.enableHandleMouseScroll(); //允许鼠标双击放大地图   
-	        } catch(err) {
-	        	alert('图加载不成功，请稍候再试！');
-	        }
-	    }
+				map = new TMap("mapDiv"); //初始化地图对象
+				map.centerAndZoom(new TLngLat(105, 36), 4);//设置显示地图的中心点和级别
+				map.enableHandleMouseScroll(); //允许鼠标双击放大地图   
+			} catch(err) {
+				alert('图加载不成功，请稍候再试！');
+			}
+		}
 
 		//绘制区域.
-		function drawArea(area,opacity){
+		function drawArea(area, opacity) {
 
 			var points = area.points; 
 			//如果有区域坐标信息，画出此行政区的多边形。 
@@ -44,10 +120,10 @@
 					fillColor : "red", 
 					strokeWeight : 1, 
 					strokeOpacity : 0.000001, 
-		        	fillOpacity : opacity, //透明度，随机生成。 
-		        	strokeStyle : "dashed" //虚线 
-		        } 
-		        for(var i = 0;i < points.length;i++){ 
+					fillOpacity : opacity, //透明度，随机生成。 
+					strokeStyle : "dashed" //虚线 
+				} 
+				for(var i = 0;i < points.length;i++){ 
 					var region = points[i].region;//单个面 
 					var pointArr = region.split(","); 
 					var pointsz = []; 
@@ -55,7 +131,7 @@
 						var p = pointArr[j]; 
 						var pArr = p.split(" "); 
 						var point = new TLngLat(pArr[0],pArr[1]); 
-						pointsz.push(point);				 
+						pointsz.push(point);
 					} 
 					var poly = new TPolygon(pointsz,style); 
 					map.addOverLay(poly); 

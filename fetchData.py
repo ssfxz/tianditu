@@ -16,14 +16,14 @@ def fetchData(city, fileName):
         # print cityData
         areaData = cityData["area"]
 
-        if not os.path.exists("./" + fileName):
-            os.mkdir("./" + fileName)
-        fo = open("./" + fileName + "/" + city + ".js", "wb+")
+        if not os.path.exists("./data/" + fileName):
+            os.mkdir("./data/" + fileName)
+        fo = open("./data/" + fileName + "/" + city + ".js", "wb+")
         # fo.write(response)
         fo.write(json.dumps(areaData, ensure_ascii=False, indent=4).encode("utf-8"))
         fo.close()
 
-        fc = open("./collect-" + fileName + ".js", "ab+")
+        fc = open("./data/collect-" + fileName + ".js", "ab+")
         fc.write(json.dumps(areaData, ensure_ascii=False, indent=4).encode("utf-8"))
         fc.write(",\n")
         fc.close()
@@ -49,7 +49,7 @@ successList = []
 failureList = []
 retryNum = 5
 
-fc = open("./collect-" + fileName + ".js", "wb+")
+fc = open("./data/collect-" + fileName + ".js", "wb+")
 fc.write("var collect = [\n")
 fc.close()
 
@@ -67,10 +67,10 @@ for line in file.readlines():
             if not i < retryNum:
                 failureList.append(city)
 
-fc = open("./collect-" + fileName + ".js", "ab+")
+fc = open("./data/collect-" + fileName + ".js", "ab+")
 fc.write("]\n")
 fc.close()
-os.system ("cp %s %s" % ("./collect-" + fileName + ".js", "./collect.js"))
+os.system ("cp %s %s" % ("./data/collect-" + fileName + ".js", "./collect.js"))
 
 print "成功:", len(successList)
 print "失败:", len(failureList)
