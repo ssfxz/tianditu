@@ -43,6 +43,10 @@
 				}
 				console.log(id);
 
+				if (item.points == undefined) {
+					console.log(item.name);
+					return null;
+				}
 				var type = item.points.length > 1 ? "MultiPolygon" : "Polygon";
 				var coordinates = [];
 
