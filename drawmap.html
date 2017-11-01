@@ -51,7 +51,10 @@
 				var coordinates = [];
 
 				var getPolygon = function(region) {
-					var points = region.region.split(","); 
+					var points = region.region.split(",");
+					if (points[points.length - 1] == "") {
+						points.pop();
+					} 
 					var path = points.map(function(point) {
 						var p = point.split(" "); 
 						return [parseFloat(p[0]), parseFloat(p[1])];
