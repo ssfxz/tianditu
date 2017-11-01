@@ -36,4 +36,4 @@ useage：> fetchData.py province.txt
 根据聚合后的collect.js数据绘制地图用以检验抓取的数据
 
 ## Convert 2 GeoJson
-将地图数据转换为geojson类型的数据
+将地图数据转换为geojson类型的数据 

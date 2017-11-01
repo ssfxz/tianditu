@@ -6,6 +6,7 @@ fchina = open("./china.txt", "r")
 fprovince = open("./province.txt", "wb+")
 fcity = open("./city.txt", "wb+")
 fcounty = open("./county.txt", "wb+")
+curCity = ""
 
 for line in fchina.readlines():
     if not line.find("市辖区") == -1:
@@ -19,10 +20,11 @@ for line in fchina.readlines():
         fprovince.write(line[7:len(line)])
         print line[7:len(line)]
     elif not line[1] == " ":
+        curCity = line[8:len(line) - 1]
         fcity.write(line[8:len(line)])
         print "\t", line[8:len(line)]
     else:
-        fcounty.write(line[9:len(line)])
+        fcounty.write(curCity + line[9:len(line)])
         print "\t", line[9:len(line)]
 
 fchina.close()
